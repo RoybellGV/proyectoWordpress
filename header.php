@@ -12,13 +12,20 @@
         
         
 <!--Navbar -->
-<nav class="navbar navbar-expand-md navbar-light bg-light " role="navigation">
+<nav class="mb-1 icono navbar navbar-expand-lg navbar-dark orange contrast lighten-1 " role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
 	<button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
-	<a class="navbar-brand" href="#">Navbar</a>
+	 <ul class="navbar-nav ml-auto nav-flex-icons">
+      <li class="nav-item avatar">
+        <a class="nav-link p-0" href="#">
+            <img src="https://i.ibb.co/Y4CT1FT/icono.png" alt="icono" border="0" class="rounded-circle z-depth-0" alt="avatar image" height="45">
+
+        </a>
+      </li>
+    </ul>
         <?php
         wp_nav_menu( array(
             'theme_location'    => 'primary',
