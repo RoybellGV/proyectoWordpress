@@ -12,7 +12,7 @@
         
         
 <!--Navbar -->
-<nav class="mb-1 icono navbar navbar-expand-lg navbar-dark orange contrast lighten-1 " role="navigation">
+<nav class="nav mb-1 icono navbar navbar-expand-lg navbar-dark orange contrast lighten-1 " role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
 	<button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
