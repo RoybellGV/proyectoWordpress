@@ -9,7 +9,7 @@
   
   <!--Slider wordpress-->
   <div class="">
-    <ul class="slider">
+    <ul class="slider text-center">
         <?php 
             $args = array( 'post_type' => 'main-slider' );
             $the_query = new WP_Query( $args ); 
@@ -32,9 +32,9 @@
   
 <!--/.Carousel Wrapper-->
     <div></div>
-    <div class="text-dark">
-        <h1 class="mt-5">Visitenos</h1>
-        <h2>¡Un gusto a su paladar!</h2>
+    <div class="text-dark text-center">
+        <h1 class="mt-5 tipografia1">Visitenos</h1>
+        <h2 class=" tipografia2 mb-3 font-weight-bold">¡Un gusto a su paladar!</h2>
     </div>
     <div>
     </div>
@@ -45,7 +45,10 @@
    <div id="info">
     <h1 > <p id="headline" >Western Food</p></h1>
     <h2 > <p id="descripcion">Nuestra Especialidad</p></h2>
-    <p id="descripcion"><button class="color bottonsize" href >Visitar la Galeria</button></p>
+    <p id="descripcion"><button type="button" class="btn btn-warning text-light">Visitar la Galeria</button></p>
+    
+    
+    
    </div>
  </div>
 
@@ -54,7 +57,10 @@
    <div id="info">
     <h1 > <p id="headline" >Nuestro Menu</p></h1>
     <h2 > <p id="descripcion">Variedad que deleita</p></h2>
-    <p id="descripcion"><button class="color bottonsize" href >Ir al Menu</button></p>
+    <p id="descripcion"><button class="btn btn-warning text-light"  >Ir al Menu</button></p>
+    
+
+    
    </div>
  </div>
     
@@ -63,11 +69,11 @@
     
 
   <div></div>
-    <div class="text-dark">
+    <div class="text-dark mb-5 text-center">
         <h1 class="mt-5">Nuestro Contacto</h1>
         <h2><i class="fas fa-phone text-dark "></i>(+506)8610-7395</h2>
         <h2><i class="fas fa-envelope text-dark"></i>food@gmail.com</h2>
-        
+               
     </div>
     <div>
     </div>  

@@ -18,10 +18,10 @@
         <div class="card-body form">
 
           <!-- Header -->
-          <h3 class="mt-4 " style="color:#d4aa00ff";><i class="fas fa-envelope pr-2 "></i>Escribenos:</h3>
+          <h2 class="mt-4 text-center font-weight-bold tipografia1" style="color:#d4aa00ff";><i class="fas fa-envelope pr-2 "></i>Escribenos:</h2>
 
           <!-- Grid row -->
-          <div class="row">
+          <div class="row tipografia1 font-weight-bold">
 
             <!-- Grid column -->
             <div class="col-md-6">
@@ -45,7 +45,7 @@
           <!-- Grid row -->
 
           <!-- Grid row -->
-          <div class="row">
+          <div class="row tipografia1 font-weight-bold">
 
             <!-- Grid column -->
             <div class="col-md-6">
@@ -69,14 +69,14 @@
           <!-- Grid row -->
 
           <!-- Grid row -->
-          <div class="row">
+          <div class="row tipografia1 font-weight-bold">
 
             <!-- Grid column -->
             <div class="col-md-12">
               <div class="md-form mb-0">
                 <textarea type="text" id="form-contact-message" class="form-control md-textarea" rows="3"></textarea>
                 <h3><label class="active text-white" for="form-contact-message">Su mensaje</label></h3>
-                <a class=" boton btn-floating btn-lg blue waves-effect waves-light border-radius">
+                <a class=" boton btn-floating btn-lg blue waves-effect waves-light border-radius text-center">
                   <i class="far fa-paper-plane"></i>
                 </a>
               </div>
@@ -92,20 +92,20 @@
       <!-- Grid column -->
 
       <!-- Grid column -->
-      <div class="col-lg-4 color">
+      <div class="col-lg-4 color text-center font-weight-bold">
 
-        <div class="card-body contact text-center h-100 white-text">
+        <div class="card-body contact text-center h-100 white-text mt-5">
 
-          <h3 class="my-4 pb-2 text-white">Información<br>de<br>Contacto</h3>
-          <ul class="text-lg-left list-unstyled ml-4">
+          <h2 class="my-4 pb-2 text-white tipografia2">Información<br>de<br>Contacto</h2>
+          <ul class="text-lg-left list-unstyled">
             <li>
-              <h3 class="text-white"><i class="fas fa-map-marker-alt pr-2 text-white"></i>Puntarenas,CR</h3>
+              <h3 class="text-white text-center"><i class="fas fa-map-marker-alt pr-2 text-white"></i>Puntarenas,CR</h3>
             </li>
             <li>
-              <h3 class="text-white"><i class="fas fa-phone pr-2 text-white"></i>(+506)8610-7395</h3>
+              <h3 class="text-white text-center"><i class="fas fa-phone pr-2 text-white"></i>(+506)8610-7395</h3>
             </li>
             <li>
-              <h3 class="text-white"><i class="fas fa-envelope pr-2 text-white"></i>food@gmail.com</h3>
+              <h3 class="text-white text-center"><i class="fas fa-envelope pr-2 text-white"></i>food@gmail.com</h3>
             </li>
           </ul>
           <hr class="hr-light my-4">
