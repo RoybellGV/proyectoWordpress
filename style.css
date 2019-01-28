@@ -23,7 +23,7 @@ h2{
     text-align: center;
 }
 h3{
-     font-family: 'Yeseva One', bold;
+    font-family: 'Yeseva One', bold;
     font-size: 190%;
     text-align: center;
 }
@@ -546,9 +546,6 @@ div#imagen2:hover div#info {
 }
 
 p#headline {
- 
-  
-
     margin-top: 15px;
     transition:  0.3s;
     font-family: 'Yeseva One', bold;
@@ -578,5 +575,115 @@ div#imagen:hover p#descripcion {
 div#imagen2:hover p#descripcion {
   margin-top: 75px;
 }
+
+/**
+* #.# Pagina acerca------------------------------------------------------------------
+*
+* Description .
+*/
+.tipografia1{
+    font-family: 'Yeseva One', bold;
+}
+
+.tipografia2{
+    font-family: 'Crimson Text', serif;
+}
+
+
+.colorTexto{
+    color: #d4aa00ff;   
+}
+.colorfondo{
+    background-color: #d4aa00ff;
+}
+
+.rgba-black-strong{
+	background-color: rgba(0,0,0,.7);
+}
+
+hr { 
+    background-color: #d4aa00ff; 
+    margin: auto;
+}
+
+.bannerFondo{
+	background-image: url("https://i.ibb.co/tmnVkrt/about-Banner.jpg");
+	background-size:cover;
+	background-position:center;
+	height:100vh;
+}
+.aboutBanner{
+	height: 100vh;
+}
+
+.seccionQuiSom{
+	height: 80%px;
+}
+
+.imgHistoria{
+	background-image: url(https://i.ibb.co/CvSP84T/img-About2.jpg);
+	background-size:cover;
+	background-position: bottom left;
+	height:70vh;
+}
+
+.aboutBanner2{
+	height: 80vh;
+}
+
+.HistoriaCaja{
+	height:30vh;		
+}
+
+.degradado{
+	background: -moz-linear-gradient(top, rgba(247,238,71,1) 0%, rgba(255,255,255,0) 100%); 
+	background: -webkit-linear-gradient(top, rgba(247,238,71,1) 0%,rgba(255,255,255,0) 100%); 
+	background: linear-gradient(to bottom, rgba(247,238,71,1) 0%,rgba(255,255,255,0) 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7ee47', endColorstr='#00ffffff',GradientType=0 ); 
+}
+
+.testimonio{
+		 height: 120px;
+    	background-color: #d4aa00ff;
+ 		 margin: 0 0 -50px;
+}
+.imgTestimonio{
+	border: 5px solid #fff;
+}
+
+.bordeCard{
+box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15)!important;
+}
+
+.map{
+overflow:hidden;
+padding-bottom:30%;
+position:relative;
+
+}
+.map iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+border: 0; 
+}
+
+/**
+* #.# Pagina blog------------------------------------------------------------------
+*
+* Description .
+*/
+.bannerBlog{
+	background-image: url(https://i.ibb.co/qk39rP9/imgBlog3.jpg);
+	background-size:cover;
+	background-position:center;
+	height:80vh;
+}
+.blogBanner{
+	height: 80vh;
+}
+
 
 

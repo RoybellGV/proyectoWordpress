@@ -2,35 +2,41 @@
     
  <?php get_header();?>
  
-    <div class="container-fluid">
-    
-    <!-- Seccion Nosotros -->
-        
-              <div class="container-fluid bannerFondo mb-5">
 
-                <div class="row aboutBanner align-items-center">
-                  <div class="col text-center">
-                    <h1 class="display-1"> <strong>Nosotros</strong></h1>
-                      <h3 >Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>  
+    
+    <!-- Seccion Nosotros -->        
+          
+          <div class="bannerFondo">
+          <div class="text-white menuBanner rgba-black-strong">
+            <div class="row aboutBanner align-items-center">
+                  <div class="col text-center text-white">
+                    <h1 class="tipografia1 h1-responsive"> <strong class="colorTexto">Nosotros</strong></h1>
+                      <h3 class="tipografia2 h5-responsive">Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>  
                   </div>
                 </div>
-
-              </div>
+          </div>
+        </div>
+ 
   <!-- Fin Seccion nosotros-->
-          <hr/>
+          
+          <br>
+          <br>
+          <hr align="center" noshade="noshade" size="5" width="90%" />
+
 <!-- Seccion Quienes somos-->
         <div class="container mt-3">
-          <h1 class="display-1 text-center"> <strong>¿Quienes somos?</strong></h1>
-          <div class="row align-items-center">
+          <h1 class="h1-responsive text-center"> <strong class="text-dark">¿Quienes somos?</strong></h1>
+          <div class="row align-items-center mt-5">
   
-                  <div class="col-md-5 col-sm-12 pr-0"><img class="img-fluid" src="css/img/imgAbout1.jpg" alt=""></div>
+                  <div class="col-md-5 col-sm-12 pr-0"><img class="img-fluid" src="https://i.ibb.co/2W0ZfdD/img-About1.jpg" alt=""></div>
   
-                  <div class="col-md-7 col-sm-12 bg-warning seccionQuiSom">
-                    <h3 class="font-weight-bold pl-5 mt-3 text-white">Nuestro Compromiso</h3>
-                     <p class="pl-5">Llevar platillos de calidad a su es y que con cada bocado tenga la mejor experiencia.</p>
-                    <h3 class="font-weight-bold pl-5 text-white">Porque Escogernos</h3>
-                    <p class="pl-5">Con más de 20 años  de experiencia liderando restaurantes cinco estrellas.</p>
-                    <p class="pl-5">Ganadores de estrellas Michelin en los ultimos años</p>
+                  <div class="col-md-7 col-sm-12 colorfondo seccionQuiSom ">
+                    <h3 class="font-weight-bold pl-5 mt-3 text-white text-left tipografia2">Nuestro Compromiso</h3>
+                     <p class="pl-5 text-dark tipografia2">Llevar platillos de calidad a su es y que con cada bocado tenga la mejor experiencia.</p>
+                    <h3 class="font-weight-bold pl-5 text-white text-left tipografia2">Porque Escogernos</h3>
+                    <p class="pl-5 text-dark tipografia2">Con más de 20 años  de experiencia liderando restaurantes cinco estrellas.</p>
+                    <p class="pl-5 text-dark tipografia2">Ganadores de estrellas Michelin en los ultimos años</p>
+                    
                 </div>
          
         </div>
@@ -38,40 +44,53 @@
 
   
     <!-- Fin Seccion Quienes somos-->
-<hr/>
+            <br>
+          <br>
+          <hr align="center" noshade="noshade" size="5" width="90%" />
 
 
  <!-- Seccion Historia-->
-    <div class="container-fluid imgHistoria aboutBanner2 mb-5">
+<div class="container-fluid imgHistoria aboutBanner2 mb-5 mt-5">
 
-                  <div class="row align-items-center">
-                    <div class="col text-center">
-                      <h1 class="display-1 mt-4"> <strong>Historia</strong></h1>
+    <div class="row align-items-center">
+        <div class="col text-center">
+            <h1 class="h1-responsive mt-4 tipografia1"> <strong class="text-dark">Historia</strong></h1>
+        </div>
+    </div>
 
-                    </div>
-                  </div>
+   <div class="row d-flex d-flex justify-content-center">
+    <div class="card-deck text-center HistoriaCaja mt-4">
+        <div class="card degradado">
 
-                  <div class="row text-center HistoriaCaja d-flex justify-content-center">
-                    <div class="col-md-12 d-flex justify-content-center mt-4">
-                        <div class="col-md-3 degradado mr-2 ml-5">
-                            <h3 class="mt-4">Establecimiento</h3>
-                            <p>Un restaurante con un toque rustico.</p>
-                         </div>
+            <div class="card-body">
+                <h4 class="card-title tipografia2 "><strong class="text-dark">Establecimiento</strong></h4>
+                <p class="card-text tipografia2 text-dark mb-5 pb-5">Un restaurante con un toque rustico</p>
+            </div>
+        </div>
+        <div class="card degradado ">
 
-                         <div class="col-md-3 degradado mx-2">
-                            <h3 class="mt-4">Exitos</h3>
-                            <p>Ganadores de estrellas Michelin</p>
-                         </div>
+            <div class="card-body">
+                <h4 class="card-title tipografia2 "><strong class="text-dark">Exitos</strong></h4>
+                <p class="card-text tipografia2 text-dark mb-5 pb-5">Ganadores de estrellas Michelin</p>
+            </div>
+        </div>
+        <div class="card degradado ">
 
-                         <div class="col-md-3  degradado ml-2 mr-5">
-                            <h3 class="mt-4">Tecnologias</h3>
-                            <p>Las más innovadoras y vanguardistas de la epoca</p>
-                         </div>
-                      </div>
-                  </div>
-          </div>
+            <div class="card-body">
+                <h4 class="card-title tipografia2 "><strong class="text-dark">Tecnologias</strong></h4>
+                <p class="card-text tipografia2 text-dark mb-5 pb-5">Las más innovadoras y vanguardistas de la epoca</p>
+            </div>
+        </div>
+    </div>
+ </div>
+
+
+
+</div>
     <!-- Fin Seccion Historia-->
-    <hr/>
+       <br>
+          <br>
+          <hr align="center" noshade="noshade" size="5" width="90%" />
 
 
     <!-- Seccion Testimonio-->
@@ -79,7 +98,7 @@
       <div class="container-fluid mb-5">
                     <div class="row">
                       <div class="col text-center">
-                         <h1 class="display-1 mt-4"> <strong>Testimonio</strong></h1>
+                         <h1 class="h1-responsive mt-4"> <strong class="text-dark">Testimonio</strong></h1>
 
                       </div>
                     </div>
@@ -94,16 +113,15 @@
                         </div>
                         <!--Avatar-->
                         <div class="avatar mx-auto white">
-                            <img src="css/img/imgAbout3.jpg" width="150" height="150" class="rounded-circle imgTestimonio">
+                            <img src="https://i.ibb.co/VqYdNr6/img-About3.jpg" width="150" height="150" class="rounded-circle imgTestimonio">
                         </div>
                         <div class="card-body">
                             <!--Name-->
-                            <h4 class="card-title text-uppercase">Anna Doe</h4>
-                            <h5 class="text-danger">Cliente</h5>
+                            <h4 class="card-title text-uppercase text-dark tipografia2">Anna Doe</h4>
+                            <h5 class="text-danger tipografia2">Cliente</h5>
                             <hr>
                             <!--Quotation-->
-                            <p>
-                                <i class="fas fa-quote-left"></i> Super complacida con el servicio recibido, platillos deliciosos.</p>
+                            <p class="text-dark tipografia2">Super complacida con el servicio recibido, platillos deliciosos.</p>
 
                         </div>
                     </div>
@@ -114,7 +132,9 @@
 
 
     <!-- Fin Seccion Testimonio-->
-     <hr/>
+       <br>
+          <br>
+          <hr align="center" noshade="noshade" size="5" width="90%" />
 
     <!-- Seccion Mapa-->
      <div class="container-fluid d-flex justify-content-center mt-5">
@@ -126,7 +146,7 @@
         </div>
 </div>
     <!-- Fin Seccion Mapa-->
-    </div>
+   
 <!-- Section: Contact v.3 -->
 
   <?php get_footer();?>
