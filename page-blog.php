@@ -16,7 +16,7 @@
             <div class="col-md-8 mb-4">
 
            
-                <div class="card mb-4 wow fadeIn">
+                <div class="card mb-4 border-0">
 
              
                     <div class="card-body">

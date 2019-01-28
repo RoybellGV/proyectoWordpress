@@ -1,7 +1,7 @@
 
  
    <!-- Footer -->
-<footer class="page-footer font-small special-color-dark pt-4 mt-5  ">
+<footer class="page-footer font-small special-color-dark">
 
     <!-- Footer Elements -->
     <div class="container contrast ">

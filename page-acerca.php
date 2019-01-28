@@ -3,20 +3,20 @@
  <?php get_header();?>
  
 
-    
+  <div class=""> 
     <!-- Seccion Nosotros -->        
-          
           <div class="bannerFondo">
-          <div class="text-white menuBanner rgba-black-strong">
+          <div class="rgba-black-strong col-md-12 col-lg-12 ">
+          <div class="text-white ">
             <div class="row aboutBanner align-items-center">
                   <div class="col text-center text-white">
                     <h1 class="tipografia1 h1-responsive"> <strong class="colorTexto">Nosotros</strong></h1>
-                      <h3 class="tipografia2 h5-responsive">Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>  
+                      <h3 class="tipografia2 h5-responsive mx-3">Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>  
                   </div>
                 </div>
           </div>
         </div>
- 
+ </div>
   <!-- Fin Seccion nosotros-->
           
           <br>
@@ -148,7 +148,7 @@
     <!-- Fin Seccion Mapa-->
    
 <!-- Section: Contact v.3 -->
-
+</div> 
   <?php get_footer();?>
 
 </html>
