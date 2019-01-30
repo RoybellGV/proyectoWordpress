@@ -15,19 +15,27 @@ body{
     body{
         font-size: 18px;
     }
+    
+    div h1 .textHistoria{
+        color: #343a40;
+    }
 }
  
 @media all and (max-width: 959px) and (min-width: 600px) {
     body{
         font-size: 16px;
     }
+    
+    div h1 .textHistoria{
+        color: #343a40;
+    }
 }
  
 @media all and (max-width: 599px) and (min-width: 320px) {
     body{
-        font-size: 12px;
+        font-size: 0.7rem;
     }
- 
+    
 }
 
  
@@ -714,18 +722,45 @@ border: 0;
 	height: 80vh;
 }
 
-.CambioHover:hover{
-    background:#d4aa00ff;
-    height: 50px;
-    width: 100px;
-    background: lightseagreen;
-    margin: 20px;
-    float: left;
-    box-shadow: 0 0 1px #ccc;
-    -webkit-transition: all 0.5s ease-in-out;
-    border: 0px;
-    color: #fff;
+.linkLeer{
+    color:#dc3545;
 }
+
+.linkLeer:hover{
+    color:#d4aa00ff;
+    text-decoration: underline;
+}
+
+.linkTituloBlog{  
+    color:#d4aa00;
+}
+
+.linkTituloBlog:hover{
+    color:#dc3545;
+    text-decoration: underline;
+}
+
+
+.btn-logBlog{   
+     color: #fff;
+}
+.btn-logBlog:hover{
+    
+    color: black;
+}
+
+.linkTituloBlog2{  
+    color:#6c757d;
+}
+
+.linkTituloBlog2:hover{
+    color:#dc3545;
+    text-decoration: underline;
+}
+
+
+
+
 
 .btn-change{
     float: left;

@@ -25,7 +25,7 @@
 
 <!-- Seccion Quienes somos-->
         <div class="container mt-3">
-          <h1 class="h1-responsive text-center"> <strong class="text-dark">¿Quienes somos?</strong></h1>
+          <h1 class="h1-responsive text-center tipografia1"> <strong class="text-dark">¿Quienes somos?</strong></h1>
           <div class="row align-items-center mt-5">
   
                   <div class="col-md-5 col-sm-12 pr-0"><img class="img-fluid" src="https://i.ibb.co/2W0ZfdD/img-About1.jpg" alt=""></div>
@@ -35,7 +35,7 @@
                      <p class="pl-5 text-dark tipografia2">Llevar platillos de calidad a su es y que con cada bocado tenga la mejor experiencia.</p>
                     <h3 class="font-weight-bold pl-5 text-white text-left tipografia2">Porque Escogernos</h3>
                     <p class="pl-5 text-dark tipografia2">Con más de 20 años  de experiencia liderando restaurantes cinco estrellas.</p>
-                    <p class="pl-5 text-dark tipografia2">Ganadores de estrellas Michelin en los ultimos años</p>
+                    <p class="pl-5 text-dark tipografia2">Ganadores de estrellas Michelin en los ultimos años.</p>
                     
                 </div>
          
@@ -50,35 +50,35 @@
 
 
  <!-- Seccion Historia-->
-<div class="container-fluid imgHistoria aboutBanner2 mb-5 mt-5">
+<div class="container-fluid imgHistoria aboutBanner2 mt-5">
 
     <div class="row align-items-center">
         <div class="col text-center">
-            <h1 class="h1-responsive mt-4 tipografia1"> <strong class="text-dark">Historia</strong></h1>
+            <h1 class="h1-responsive mt-4 tipografia1 textHistoria"> <strong class="">Historia</strong></h1>
         </div>
     </div>
 
    <div class="row d-flex d-flex justify-content-center">
-    <div class="card-deck text-center HistoriaCaja mt-4">
-        <div class="card degradado">
+    <div class="card-deck text-center mt-4">
+        <div class="card degradado border-0">
 
             <div class="card-body">
                 <h4 class="card-title tipografia2 "><strong class="text-dark">Establecimiento</strong></h4>
-                <p class="card-text tipografia2 text-dark mb-5 pb-5">Un restaurante con un toque rustico</p>
+                <p class="card-text tipografia2 text-dark ">Un restaurante con un toque rustico</p>
             </div>
         </div>
-        <div class="card degradado ">
+        <div class="card degradado border-0">
 
             <div class="card-body">
                 <h4 class="card-title tipografia2 "><strong class="text-dark">Exitos</strong></h4>
-                <p class="card-text tipografia2 text-dark mb-5 pb-5">Ganadores de estrellas Michelin</p>
+                <p class="card-text tipografia2 text-dark ">Ganadores de estrellas Michelin</p>
             </div>
         </div>
-        <div class="card degradado ">
+        <div class="card degradado border-0">
 
             <div class="card-body">
                 <h4 class="card-title tipografia2 "><strong class="text-dark">Tecnologias</strong></h4>
-                <p class="card-text tipografia2 text-dark mb-5 pb-5">Las más innovadoras y vanguardistas de la epoca</p>
+                <p class="card-text tipografia2 text-dark ">Las más innovadoras y vanguardistas de la epoca</p>
             </div>
         </div>
     </div>
@@ -87,6 +87,7 @@
 
 
 </div>
+   
     <!-- Fin Seccion Historia-->
        <br>
           <br>
@@ -95,10 +96,10 @@
 
     <!-- Seccion Testimonio-->
 
-      <div class="container-fluid mb-5">
+      <div class="container-fluid mb-5 ">
                     <div class="row">
                       <div class="col text-center">
-                         <h1 class="h1-responsive mt-4"> <strong class="text-dark">Testimonio</strong></h1>
+                         <h1 class="h1-responsive mt-4 tipografia1"> <strong class="text-dark">Testimonio</strong></h1>
 
                       </div>
                     </div>
