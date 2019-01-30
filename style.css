@@ -52,8 +52,6 @@ p {
     line-height: 1.618em;
 }
 
-
-
 .claseDelDiv {
     background-image: url("https://i.ibb.co/G31Qcj0/tabla.jpg");
     background-repeat: no-repeat;
@@ -173,10 +171,6 @@ section {
 ::before {
     box-sizing: border-box;
 }
-
-
-
-
 
 .md-form {
 
@@ -737,7 +731,6 @@ div#imagen2:hover p#descripcion {
     font-family: 'Crimson Text', serif;
 }
 
-
 .colorTexto {
     color: #d4aa00ff;
 }
@@ -755,8 +748,6 @@ hr {
     background-color: #d4aa00ff;
     margin: auto;
 }
-
-
 
 .bannerFondo {
     background-image: url("https://i.ibb.co/tmnVkrt/about-Banner.jpg");
@@ -814,7 +805,6 @@ hr {
     overflow: hidden;
     padding-bottom: 30%;
     position: relative;
-
 }
 
 .map iframe {
@@ -880,7 +870,11 @@ hr {
     text-decoration: underline;
 }
 
-
+/**
+* #.# Pagina footer------------------------------------------------------------------
+*
+* Description .
+*/
 .btn-change {
     float: left;
     box-shadow: 0 0 1px #ccc;
@@ -905,4 +899,8 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+}
+
+.btn-floating {
+    padding: 0;
 }
