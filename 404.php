@@ -10,8 +10,8 @@
 </head>
 <div class="container-fluid">
     
-<div class="container-fluid  mb-5 col-md-12 col-lg-12 text-center">
-    <img class="img-fluid" src="https://i.ibb.co/DRtszLz/error.png" alt="error"  width="520vh">
+<div class="container-fluid  mb-5 col-md-12 col-lg-12 text-center mt-3">
+    <img class="img-fluid" src="https://i.ibb.co/DRtszLz/error.png" alt="error"  width="500vh">
 </div>
     
 <div class="text-dark">
