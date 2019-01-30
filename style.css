@@ -1,7 +1,5 @@
-<style > @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
-</style > <style > @import url('https://fonts.googleapis.com/css?family=Yeseva+One');
-</style > body {
-    background-image: url("https://i.ibb.co/99tDr66/16202.jpg");
+ body {
+   
     font-size: 16px;
 }
 
@@ -51,6 +49,8 @@ p {
     font-size: 1em;
     line-height: 1.618em;
 }
+
+
 
 .claseDelDiv {
     background-image: url("https://i.ibb.co/G31Qcj0/tabla.jpg");
@@ -171,6 +171,10 @@ section {
 ::before {
     box-sizing: border-box;
 }
+
+
+
+
 
 .md-form {
 
@@ -731,6 +735,7 @@ div#imagen2:hover p#descripcion {
     font-family: 'Crimson Text', serif;
 }
 
+
 .colorTexto {
     color: #d4aa00ff;
 }
@@ -748,6 +753,8 @@ hr {
     background-color: #d4aa00ff;
     margin: auto;
 }
+
+
 
 .bannerFondo {
     background-image: url("https://i.ibb.co/tmnVkrt/about-Banner.jpg");
@@ -805,6 +812,7 @@ hr {
     overflow: hidden;
     padding-bottom: 30%;
     position: relative;
+
 }
 
 .map iframe {
@@ -870,11 +878,7 @@ hr {
     text-decoration: underline;
 }
 
-/**
-* #.# Pagina footer------------------------------------------------------------------
-*
-* Description .
-*/
+
 .btn-change {
     float: left;
     box-shadow: 0 0 1px #ccc;
