@@ -8,7 +8,7 @@
 
   
   <!--Slider wordpress-->
-  <div class="">
+  <div>
     <ul class="slider text-center">
         <?php 
             $args = array( 'post_type' => 'main-slider' );

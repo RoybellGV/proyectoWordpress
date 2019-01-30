@@ -3,7 +3,7 @@
  <?php get_header();?>
  
 
-  <div class=""> 
+  <div> 
     <!-- Seccion Nosotros -->        
           <div class="bannerFondo">
           <div class="rgba-black-strong col-md-12 col-lg-12 ">
@@ -48,7 +48,6 @@
           <br>
           <hr align="center" noshade="noshade" size="5" width="90%" />
 
-
  <!-- Seccion Historia-->
 <div class="container-fluid imgHistoria aboutBanner2 mt-5">
 
@@ -83,8 +82,6 @@
         </div>
     </div>
  </div>
-
-
 
 </div>
    
