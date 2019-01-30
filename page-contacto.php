@@ -80,7 +80,7 @@
             <!-- Grid column -->
             <div class="col-lg-4 color text-center font-weight-bold">
 
-                <div class="card-body contact text-center h-100 white-text mt-5">
+                <div class="card-body contact text-center white-text mt-5">
 
                     <h2 class="my-4 pb-2 text-white tipografia2">Información<br>de<br>Contacto</h2>
                     <ul class="text-lg-left list-unstyled">
