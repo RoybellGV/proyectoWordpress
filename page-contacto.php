@@ -67,7 +67,8 @@
                             <div class="md-form mb-0">
                                 <textarea type="text" id="form-contact-message" class="form-control md-textarea" rows="3"></textarea>
                                 <h3><label class="active text-white" for="form-contact-message">Su mensaje</label></h3>
-                                <a class=" boton btn-floating btn-lg blue waves-effect waves-light border-radius text-center"><i class="far fa-paper-plane"></i></a>
+                                <a class=" boton btn-floating btn-lg blue waves-effect waves-light border-radius"><i class="far fa-paper-plane"></i></a>
+                                
                             </div>
                         </div>
                         <!-- Grid column -->
@@ -78,9 +79,9 @@
             <!-- Grid column -->
 
             <!-- Grid column -->
-            <div class="col-lg-4 color text-center font-weight-bold">
+            <div class="col-lg-4 text-center font-weight-bold color">
 
-                <div class="card-body contact text-center white-text mt-5">
+                <div class="card-body contact text-center white-text mt-5 ">
 
                     <h2 class="my-4 pb-2 text-white tipografia2">Información<br>de<br>Contacto</h2>
                     <ul class="text-lg-left list-unstyled">

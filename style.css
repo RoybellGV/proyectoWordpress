@@ -1,5 +1,7 @@
- body {
-   
+<style > @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
+</style > <style > @import url('https://fonts.googleapis.com/css?family=Yeseva+One');
+</style > body {
+    background-image: url("https://i.ibb.co/99tDr66/16202.jpg");
     font-size: 16px;
 }
 
@@ -18,15 +20,14 @@
         font-size: 16px;
     }
 
-    div h1 .textHistoria {
-        color: #343a40;
-    }
+    
 }
 
 @media all and (max-width: 599px) and (min-width: 320px) {
     body {
         font-size: 0.7rem;
     }
+   
 
 }
 
@@ -49,8 +50,6 @@ p {
     font-size: 1em;
     line-height: 1.618em;
 }
-
-
 
 .claseDelDiv {
     background-image: url("https://i.ibb.co/G31Qcj0/tabla.jpg");
@@ -171,10 +170,6 @@ section {
 ::before {
     box-sizing: border-box;
 }
-
-
-
-
 
 .md-form {
 
@@ -523,7 +518,6 @@ a.waves-light {
 }
 
 .blue {
-
     background-color: #d4aa00ff !important;
 
 }
@@ -657,7 +651,7 @@ a {
 * {
     margin: 0;
     padding: 0;
-    color: #fff;
+/*    color: #fff;*/
 
 }
 
@@ -698,6 +692,7 @@ p#headline {
     font-family: 'Yeseva One', bold;
     font-size: 100%;
     text-align: center;
+    color:#fff;
 }
 
 div#imagen:hover p#headline {}
@@ -710,6 +705,7 @@ p#descripcion {
     font-family: 'Yeseva One', bold;
     font-size: 80%;
     text-align: center;
+     color:#fff;
 }
 
 div#imagen:hover p#descripcion {
@@ -735,7 +731,6 @@ div#imagen2:hover p#descripcion {
     font-family: 'Crimson Text', serif;
 }
 
-
 .colorTexto {
     color: #d4aa00ff;
 }
@@ -753,8 +748,6 @@ hr {
     background-color: #d4aa00ff;
     margin: auto;
 }
-
-
 
 .bannerFondo {
     background-image: url("https://i.ibb.co/tmnVkrt/about-Banner.jpg");
@@ -812,7 +805,6 @@ hr {
     overflow: hidden;
     padding-bottom: 30%;
     position: relative;
-
 }
 
 .map iframe {
@@ -878,7 +870,11 @@ hr {
     text-decoration: underline;
 }
 
-
+/**
+* #.# Pagina footer------------------------------------------------------------------
+*
+* Description .
+*/
 .btn-change {
     float: left;
     box-shadow: 0 0 1px #ccc;
@@ -908,3 +904,51 @@ hr {
 .btn-floating {
     padding: 0;
 }
+
+/**
+* #.# Pagina equipo------------------------------------------------------------------
+*
+* Description .
+*/
+
+/*pagina teamaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan*/
+
+.bannerTeam{
+	background-image: url("https://i.ibb.co/HLSZnSX/imgTeam1.jpg");
+	background-size:cover;
+	background-position:center;
+	height:100vh;
+}
+
+.bannerTeam2{
+	background-image: url("https://i.ibb.co/37c83d4/banner-Team2.jpg");
+	background-size:cover;
+	background-position:center;
+	height:100vh;
+}
+
+.borderServirte{
+	border: 5px solid red;
+
+}
+
+.teamBanner{
+	height: 100vh;
+}
+
+.recuadroNuestroEquipo{
+	background-color: #e6e6e691;
+}
+
+.btn-logTeam {
+    color: #d4aa00ff;
+}
+
+.btn-logTeam:hover {
+
+    color: black;
+}
+.cuadroOrgullo{
+    background-color: #343a40d1;
+}
+

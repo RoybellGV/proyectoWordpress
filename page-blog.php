@@ -57,7 +57,7 @@
             <div class="col-md-4 mb-4 mt-3">
                 <div class="card mb-4 colorfondo">
                     <div class="card-header text-center tipografia2">
-                        <h4 class="card-title tipografia2 my-4"><strong>¿Deseas recibir noticias?</strong></h4>
+                        <h4 class="card-title tipografia2 my-4 text-light"><strong>¿Deseas recibir noticias?</strong></h4>
                     </div>
                     <h5 class="mx-4 mt-3 text-dark tipografia2">Para estar atento y recibir las noticias de primera mano, no dudes suscribirte</h5>
                     <div class="card-body">

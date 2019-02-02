@@ -1,12 +1,6 @@
-<html>
-
-	
-      
+<html>      
     <?php get_header();?>
 
-
-
-  
   <!--Slider wordpress-->
   <div>
     <ul class="slider text-center">
@@ -55,7 +49,7 @@
             
  <div id="imagen">
    <div id="info">
-    <h1 > <p id="headline" >Nuestro Menu</p></h1>
+    <h1 > <p id="headline">Nuestro Menu</p></h1>
     <h2 > <p id="descripcion">Variedad que deleita</p></h2>
     <p id="descripcion"><button class="btn btn-warning text-light"  >Ir al Menu</button></p>
     
@@ -64,14 +58,10 @@
    </div>
  </div>
     
-
-
-    
-
   <div></div>
-    <div class="text-dark mb-5 text-center tipografia1">
-        <h1 class="mt-5">Nuestro Contacto</h1>
-        <h2><i class="fas fa-phone text-dark "></i>(+506)8610-7395</h2>
+    <div class="text-dark mb-5 text-center">
+        <h1 class="mt-5 tipografia1">Nuestro Contacto</h1>
+        <h2><i class="fas fa-phone text-dark"></i>(+506)8610-7395</h2>
         <h2><i class="fas fa-envelope text-dark"></i>food@gmail.com</h2>
                
     </div>
