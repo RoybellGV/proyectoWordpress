@@ -1,7 +1,7 @@
 <html>
 
 <?php get_header();?>
-  <div>
+  <div class="col-md-12 col-lg-12">
      <!-- Seccion Galeria -->        
           <div class="bannerGaleria mb-5">
           <div class=" col-md-12 col-lg-12 ">
