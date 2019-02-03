@@ -952,3 +952,114 @@ hr {
     background-color: #343a40d1;
 }
 
+/**
+* #.# Pagina galeria------------------------------------------------------------------
+*
+* Description .
+*/
+.bannerGaleria{
+    background-image: url("https://i.ibb.co/99tDr66/16202.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+.galeria1{
+    background-image: url("https://i.ibb.co/8dtkN58/11.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+.galeria2{
+    background-image: url("https://i.ibb.co/JrPFDJn/aaa.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+.galeria3{
+    background-image: url("https://i.ibb.co/mbb1FPD/33.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+
+.bannerGaleria2{
+    background-image: url("https://i.ibb.co/8rMKW27/3041.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.galeria4{
+    background-image: url("https://i.ibb.co/9WYg09M/44.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+.galeria5{
+    background-image: url("https://i.ibb.co/JFF77QP/55.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+.galeria6{
+    background-image: url("https://i.ibb.co/r0LbTtD/66.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+
+.bannerGaleria3{
+    background-image: url("https://i.ibb.co/vkhZr05/282860-P61-N1-Z-483.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+.galeria7{
+    background-image: url("https://i.ibb.co/tZSRnvF/77.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+.galeria8{
+    background-image: url("https://i.ibb.co/WHhfcg4/88.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+.galeria9{
+    background-image: url("https://i.ibb.co/ZSJYRHr/99.png");
+    background-size: cover;
+    background-position: center;
+    height: 62vh;
+    width: 62vh;
+}
+
+
+.zoom{
+        /* Aumentamos el ancho y la altura durante 1 segundo */
+        transition: width 1s, height 1s, transform 1s;
+        -moz-transition: width 1s, height 1s, -moz-transform 1s;
+        -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
+        -o-transition: width 1s, height 1s,-o-transform 1s;    
+    }
+.zoom:hover{
+        /* tranformamos  su tamaño al pasar el mouse por encima con scale(2.5). */
+        transform : scale(1.1);
+        -moz-transform : scale(1.1);      /* Firefox */
+        -webkit-transform : scale(1.1);   /* Chrome - Safari */
+        -o-transform : scale(1.1);        /* Opera */
+  }
