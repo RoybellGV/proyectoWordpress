@@ -105,7 +105,7 @@
             <div class="row aboutBanner align-items-center ">
                   <div class="col text-right text-white mr-5">
                     <h1 class="tipografia1  "> <strong class="text-light">Seafood</strong></h1>
-                      <h2 class="tipografia2 mx-3 ">Delicias del Mar</h2>  
+                      <h2 class="tipografia2 mx-3 ">Delights of the sea</h2>  
                   </div>
                 </div>
           </div>
@@ -201,7 +201,7 @@
             <div class="row aboutBanner align-items-center ">
                   <div class="col text-center text-white mb-10">
                     <h1 class="tipografia1  "> <strong class="text-light">Desserts</strong></h1>
-                      <h2 class="tipografia2 mx-3 ">Postres Gourmet</h2>  
+                      <h2 class="tipografia2 mx-3 ">Gourmet Desserts</h2>  
                   </div>
                 </div>
           </div>
