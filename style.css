@@ -915,6 +915,7 @@ hr {
 
 .bannerTeam{
 	background-image: url("https://i.ibb.co/HLSZnSX/imgTeam1.jpg");
+    background-attachment: fixed;
 	background-size:cover;
 	background-position:center;
 	height:100vh;
