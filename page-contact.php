@@ -11,7 +11,7 @@
             <div class="col-lg-8">
                 <div class="card-body form">
                     <!-- Header -->
-                    <h2 class="mt-4 text-center font-weight-bold tipografia1" style="color:#d4aa00ff" ;><i class="fas fa-envelope pr-2 "></i>Write us:</h2>
+                    <h2 class="mt-4 text-center font-weight-bold tipografia1" style="color:#d4aa00ff" ;><i class="fas fa-envelope pr-2 "></i>Escribenos:</h2>
 
                     <!-- Grid row -->
                     <div class="row tipografia1 font-weight-bold">
@@ -20,7 +20,7 @@
                         <div class="col-md-6">
                             <div class="md-form mb-0">
                                 <input type="text" id="form-contact-name" class="form-control">
-                                <h3><label for="form-contact-name" class="text-white">Name</label></h3>
+                                <h3><label for="form-contact-name" class="text-white">Nombre</label></h3>
                             </div>
                         </div>
                         <!-- Grid column -->
@@ -43,7 +43,7 @@
                         <div class="col-md-6">
                             <div class="md-form mb-0">
                                 <input type="text" id="form-contact-phone" class="form-control">
-                                <h3><label for="form-contact-phone" class="text-white">Phone</label></h3>
+                                <h3><label for="form-contact-phone" class="text-white">Telefono</label></h3>
                             </div>
                         </div>
                         <!-- Grid column -->
@@ -52,7 +52,7 @@
                         <div class="col-md-6">
                             <div class="md-form mb-0">
                                 <input type="text" id="form-contact-company" class="form-control">
-                                <h3><label for="form-contact-company" class="text-white">Company</label></h3>
+                                <h3><label for="form-contact-company" class="text-white">Compañia</label></h3>
                             </div>
                         </div>
                         <!-- Grid column -->
@@ -66,8 +66,9 @@
                         <div class="col-md-12">
                             <div class="md-form mb-0">
                                 <textarea type="text" id="form-contact-message" class="form-control md-textarea" rows="3"></textarea>
-                                <h3><label class="active text-white" for="form-contact-message">Your message</label></h3>
-                                <a class=" boton btn-floating btn-lg blue waves-effect waves-light border-radius text-center"><i class="far fa-paper-plane"></i></a>
+                                <h3><label class="active text-white" for="form-contact-message">Su mensaje</label></h3>
+                                <a class=" boton btn-floating btn-lg blue waves-effect waves-light border-radius"><i class="far fa-paper-plane"></i></a>
+                                
                             </div>
                         </div>
                         <!-- Grid column -->
@@ -78,11 +79,11 @@
             <!-- Grid column -->
 
             <!-- Grid column -->
-            <div class="col-lg-4 color text-center font-weight-bold">
+            <div class="col-lg-4 text-center font-weight-bold color">
 
-                <div class="card-body contact text-center white-text mt-5">
+                <div class="card-body contact text-center white-text mt-5 ">
 
-                    <h2 class="my-4 pb-2 text-white tipografia2">Contact<br>information</h2>
+                    <h2 class="my-4 pb-2 text-white tipografia2">Información<br>de<br>Contacto</h2>
                     <ul class="text-lg-left list-unstyled">
                         <li>
                             <h3 class="text-white text-center"><i class="fas fa-map-marker-alt pr-2 text-white"></i>Puntarenas,CR</h3>
