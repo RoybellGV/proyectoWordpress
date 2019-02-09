@@ -4,15 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale-1, maximum-scale-1, user,scalable=no">
     <meta charset="<?php bloginfo('charset');?>">
 	<?php wp_head();?>
-    
+      
+    <style > @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
+</style > <style > @import url('https://fonts.googleapis.com/css?family=Yeseva+One');
+</style >
     
     
 </head>
     <body <?php body_class();?> >
         
-        
+
 <!--Navbar -->
 <nav class="nav mb-1 icono navbar navbar-expand-lg navbar-dark orange contrast lighten-1 " role="navigation">
+        
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
 	<button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,3 +45,4 @@
     </div>
 </nav>
 <!--/.Navbar -->
+   
