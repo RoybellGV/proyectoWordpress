@@ -1,12 +1,13 @@
+
 <html>
 
-<?php get_header();?>
-  <div class="col-md-12 col-lg-12">
-        
+ <?php get_header();?>
+  <div class="">
+       
          <!-- Seccion Platos deliciosos -->
            <div class="py-5 mt-5">
 
-                <div class="row  d-flex justify-content-center">
+                <div class="  d-flex justify-content-center">
                   <div class="col-md-10 text-center ">
                    
                      <h1 class="tipografia1 h1-responsive"> <strong>Platos deliciosos</strong></h1>
@@ -23,7 +24,7 @@
       <!-- Fin Seccion  equipo-->
       
       <!-- Galleria menu -->
-      <div class="row  d-flex justify-content-center">
+      <div class="  d-flex justify-content-center">
 <div class="classic-tabs col-md-10">
 
   <ul class="nav bg-dark d-flex justify-content-center mb-5" id="myClassicTab" role="tablist">
@@ -326,8 +327,8 @@
         <div class="card card-image bannerMenu">
           <div class="text-white d-flex align-items-center menuBanner rgba-black-strong">
            
-            <div id="columnaMenu" class="col-md-12 col-lg-6"></div>
-            <div class=" col-12 col-md-12 col-lg-6">            
+            
+            <div class="  col-md-12 col-lg-12 text-right">            
                 <h3 class="tipografia1 text-uppercase display-5"><strong class="colorTexto">Felices clientes</strong></h3>
 
               <h2 class="text-white font-weight-bold tipografia2"> <strong>DESCUENTOS DEL 50%</strong></h2>
@@ -341,9 +342,9 @@
       
       </div>
   
-
-
 <?php get_footer();?>
+
+
 
 
 </html>
