@@ -3,21 +3,23 @@
 <html>
 
 <!-- Seccion nuestro equipo -->
-<div class="col-md-12 col-lg-12">
+<div class="">
 <div class="bannerTeam ">
-    <div class="row aboutBanner d-flex align-items-center">
-        <div class="col-md-1">
-        </div>
-        <div class="col-md-5"> 
+
+    <div class=" aboutBanner d-flex align-items-center">
+      
+        <div class="col-md-5 mx-2"> 
             <h2 class="tipografia1 h4-responsive text-uppercase"> <strong class="colorTexto">Nuestro equipo</strong></h2>
             <div class="recuadroNuestroEquipo tipografia2">
-
+                
+                
                 <blockquote class="blockquote">
-                          <h3 class="font-weight-bold pl-5 text-dark">El mas alto compromiso</h3>
+                <h3 class="font-weight-bold pl-5 text-dark">El mas alto compromiso</h3>
                 <p class="pl-5 text-dark">Personal sumamente comprometido con su diario labol en el restaurnte.</p>
                 <p class="pl-5 text-dark">Chef internacionales encargados de capacitar al personal.</p>
                 <p class="pl-5 text-dark">Comprometidos con la calidad y un servicio refinado.</p>
-                        </blockquote>
+                </blockquote>
+                
                 
             </div>
         </div>
@@ -31,7 +33,7 @@
 
 
 <!-- Fin Seccion  equipo-->
-<div class="row d-flex justify-content-center">
+<div class=" d-flex justify-content-center">
 <div class="col-md-10">
     <h1 class="h1-responsive text-center tipografia1 mt-5"> <strong class="text-dark">Nuestro Equipo</strong></h1>
 
@@ -42,14 +44,13 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong>John Doe</strong></h4>
-
-                <blockquote class="blockquote">
                 <!-- Subtitle -->
-                
+                <blockquote class="blockquote">
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF REPOSTERO</small></p>
                 <!-- Text -->
+                
                 <p class="card-text text-muted">Especializado en reposteria y postres de los más refinados del estilo italiano </p>
-                        </blockquote>
+                </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -64,21 +65,13 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong>Mark Willins</strong></h4>
-                
-                
-                
-              
-                    <blockquote class="blockquote">
                 <!-- Subtitle -->
-                
-                  <!-- Subtitle -->
+                <blockquote class="blockquote">
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF SECUNDARIO</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en carnes rojas, blancas y magras </p>
-                        </blockquote>
+                </blockquote>
 
-               
-               
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
                 <!-- Dribbble -->
@@ -92,20 +85,12 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong >Peter Rocha</strong></h4>
-                
-                
-                
-                
-                <blockquote class="blockquote">
                 <!-- Subtitle -->
-<p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
+                <blockquote class="blockquote">
+                <p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina francesa con un gran repertorio de platillos ganadores de premios</p>
-                        </blockquote>
-   
-               
-                
-
+                    </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -121,18 +106,11 @@
                 <!-- Title -->
                 <h4 class="card-title "><strong >Mario Perez</strong></h4>
                 <!-- Subtitle -->
-         
-               
-
-                
-                
-                
                 <blockquote class="blockquote">
-                <!-- Subtitle -->
- <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
+                <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina oriental con más de 10 años de esperiencia</p>
-                        </blockquote>
+                </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -151,17 +129,14 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong>John Doe</strong></h4>
-                
-                
-                
-                <blockquote class="blockquote">
                 <!-- Subtitle -->
+               <blockquote class="blockquote">
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF REPOSTERO</small></p>
+                
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en reposteria y postres de los más refinados del estilo italiano </p>
-                </blockquote>
 
-
+                   </blockquote>
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
                 <!-- Dribbble -->
@@ -174,18 +149,13 @@
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
-                <h4 class="card-title "><strong>Mary Willins</strong></h4>
+                <h4 class="card-title "><strong>Mark Willins</strong></h4>
                 <!-- Subtitle -->
-                
-                
-
-                
                 <blockquote class="blockquote">
-                <!-- Subtitle -->
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF SECUNDARIO</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en carnes rojas, blancas y magras </p>
-                </blockquote>
+                    </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -199,19 +169,13 @@
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
-                <h4 class="card-title"><strong>Madilin Rocha</strong></h4>
+                <h4 class="card-title"><strong>Peter Rocha</strong></h4>
                 <!-- Subtitle -->
-               
-                
-
-                
-                
-                <blockquote class="blockquote">
-                <!-- Subtitle -->
+               <blockquote class="blockquote">
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina francesa con un gran repertorio de platillos ganadores de premios</p>
-                </blockquote>
+                   </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -225,17 +189,13 @@
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
-                <h4 class="card-title"><strong>Maria Perez</strong></h4>
-               
-
-                
-                
+                <h4 class="card-title"><strong>Mario Perez</strong></h4>
+                <!-- Subtitle -->
                 <blockquote class="blockquote">
-                 <!-- Subtitle -->
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina oriental con más de 10 años de esperiencia</p>
-                </blockquote>
+                    </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -257,7 +217,7 @@
 
 
 <!-- Seccion  servicios-->
-<div class="mb-5 row d-flex justify-content-center">
+<div class="mb-5 d-flex justify-content-center">
    <div class="col-md-10">
     <div class="row">
         <div class="col text-center">
@@ -372,8 +332,8 @@
         </div>
     </div>
 </div>
-</div>
 
+</div>
 </html>
 
 <?php get_footer();?>
