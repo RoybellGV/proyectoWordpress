@@ -33,7 +33,7 @@
     <!-- Footer Elements -->
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3 black">© 2019 Copyright:
+    <div class="footer-copyright text-center py-3 black">Copyright © 2019
     </div>
     <!-- Copyright -->
 

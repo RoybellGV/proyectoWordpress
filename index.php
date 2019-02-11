@@ -71,8 +71,8 @@
   <div></div>
     <div class="text-dark mb-5 text-center tipografia1">
         <h1 class="mt-5">Nuestro Contacto</h1>
-        <h2><i class="fas fa-phone text-dark "></i>(+506)8610-7395</h2>
-        <h2><i class="fas fa-envelope text-dark"></i>food@gmail.com</h2>
+        <h2><i class="fas fa-phone text-dark mx-2 "></i>(+506)8610-7395</h2>
+        <h2><i class="fas fa-envelope text-dark mx-3"></i>food@gmail.com</h2>
                
     </div>
     <div>

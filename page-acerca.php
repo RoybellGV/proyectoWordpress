@@ -64,27 +64,27 @@
 
             <div class="card-body">
                 <h4 class="card-title tipografia2 "><strong class="text-dark">Establecimiento</strong></h4>
-                <blockquote class="blockquote">
+                
                 <p class="card-text tipografia2 text-dark ">Un restaurante con un toque rustico</p>
-                </blockquote>
+                
             </div>
         </div>
         <div class="card degradado border-0">
 
             <div class="card-body">
                 <h4 class="card-title tipografia2 "><strong class="text-dark">Exitos</strong></h4>
-                <blockquote class="blockquote">
+               
                 <p class="card-text tipografia2 text-dark ">Ganadores de estrellas Michelin</p>
-                 </blockquote>
+                 
             </div>
         </div>
         <div class="card degradado border-0">
 
             <div class="card-body">
                 <h4 class="card-title tipografia2 "><strong class="text-dark">Tecnologias</strong></h4>
-                <blockquote class="blockquote">
+                
                 <p class="card-text tipografia2 text-dark ">Las más innovadoras y vanguardistas de la epoca</p>
-                    </blockquote>
+                    
             </div>
         </div>
     </div>
@@ -94,7 +94,7 @@
    
     <!-- Fin Seccion Historia-->
        <br>
-          <br>
+          <br class="mt-5">
           <hr align="center" noshade="noshade" size="5" width="90%" />
 
 

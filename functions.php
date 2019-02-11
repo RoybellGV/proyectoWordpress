@@ -9,6 +9,7 @@ wp_enqueue_style('bootstrap_css', 'https://stackpath.bootstrapcdn.com/bootstrap/
     
 wp_enqueue_style('fontawesome_css', 'https://use.fontawesome.com/releases/v5.6.3/css/all.css' );
     
+    
     //load style.css
 wp_enqueue_style('style', get_stylesheet_uri());
     //load mdbootstrap

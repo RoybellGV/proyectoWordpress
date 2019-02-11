@@ -1,8 +1,7 @@
 <?php get_header();?>
 
 <html>
-
-<div class="col-md-12 col-lg-12">
+<div class="col-md-12 col-lg-12" >
     <section class="mt-4">
         <div class="row">
             <div class="col-md-8 mb-4">
@@ -58,7 +57,7 @@
             <div class="col-md-4 mb-4 mt-3">
                 <div class="card mb-4 colorfondo">
                     <div class="card-header text-center tipografia2">
-                        <h4 class="card-title tipografia2 my-4 text-light"><strong>¿Deseas recibir noticias?</strong></h4>
+                        <h4 class="card-title tipografia2 my-4"><strong>¿Deseas recibir noticias?</strong></h4>
                     </div>
                     <h5 class="mx-4 mt-3 text-dark tipografia2">Para estar atento y recibir las noticias de primera mano, no dudes suscribirte</h5>
                     <div class="card-body">
@@ -71,6 +70,10 @@
                         </form>
                     </div>
 
+                    <!--
+                    <div class="card-header text-center tipografia2 mt-3">
+                    <h4 class="card-title tipografia2 my-4"><strong>Siguenos en</strong><i class="fab fa-facebook-square  fa-2x ml-3 btn-logBlog"></i><i class="fab fa-twitter-square fa-2x  ml-3 btn-logBlog"></i></h4></div>
+-->
                     <div class="row m-auto">
                         <div class="col  text-white d-flex align-items-center">
                             <h4 class="card-title tipografia2 my-4 d-flex align-items-center"><strong>Siguenos en</strong><i class="fab fa-facebook-square fa-2x ml-3 btn-logBlog"></i><i class="fab fa-twitter-square fa-2x  ml-3 btn-logBlog"></i></h4>
@@ -87,16 +90,13 @@
                     <div class="card-body ">
 
                         <ul class="list-unstyled ">
-                            <li class="media">
+                            <li class="media ">
+                                <!--                        <img class="d-flex mr-3 " src="https://mdbootstrap.com/img/Photos/Others/placeholder7.jpg " alt="Generic placeholder image ">-->
                                 <div class="media-body ">
                                     <a href=" " class="linkTituloBlog">
                                         <h5 class="mt-0 mb-1 font-weight-bold tipografia2">Nuevos chefs se unen al restaurante</h5>
                                     </a>
-                                    
-                                    
-                                    <blockquote class="blockquote">
-                           <p class="text-dark tipografia2">Dos nuevos chefs se han integrado a la familia, de procedencia italiana...</p>
-                        </blockquote>
+                                    <p class="text-dark tipografia2">Dos nuevos chefs se han integrado a la familia, de procedencia italiana...</p>
                                 </div>
                             </li>
                             <li class="media my-4 ">
@@ -105,17 +105,15 @@
                                     <a href=" " class="linkTituloBlog">
                                         <h5 class="mt-0 mb-1 font-weight-bold tipografia2">Chefs se despiden del restaurante</h5>
                                     </a>
-      
-                        <blockquote class="blockquote">
-                           <p class="text-dark tipografia2">Dos chefs han renunciado de la familia, de procedencia francesa...</p>
-                        </blockquote>
+
+                                    <p class="text-dark tipografia2">Dos chefs han renunciado de la familia, de procedencia francesa...</p>
 
                                 </div>
                             </li>
                         </ul>
                     </div>
                 </div>
-           
+              
                 <div class="card mb-4">
                     <div class="card-header  tipografia2">
                         <h4 class="card-title tipografia2 my-4"><strong class="text-dark">Archivo</strong></h4>
@@ -186,8 +184,8 @@
 
 </div>
 <!-- Fin Seccion fondo final-->
-</div>
 
+</div>
 
 </html>
 
