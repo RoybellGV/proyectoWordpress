@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
-@import url('https://fonts.googleapis.com/css?family=Yeseva+One');
-
-body {
-    
+<style > @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
+</style > <style > @import url('https://fonts.googleapis.com/css?family=Yeseva+One');
+</style > body {
+    background-image: url("https://i.ibb.co/99tDr66/16202.jpg");
     font-size: 16px;
 }
 
@@ -11,16 +10,14 @@ body {
         font-size: 18px;
     }
 
-    
+    div h1 .textHistoria {
+        color: #343a40;
+    }
 }
 
 @media all and (max-width: 959px) and (min-width: 600px) {
     body {
         font-size: 16px;
-    }
-    
-    #columnaMenu{
-        display: none;
     }
 
     
@@ -30,14 +27,12 @@ body {
     body {
         font-size: 0.7rem;
     }
-    
-    .imgServicios {
-        height:15vh;
+    .imgServicios
+    {
+        height: 15vh;
     }
     
-    #columnaMenu{
-        display: none;
-    }
+   
 
 }
 
@@ -959,6 +954,7 @@ hr {
     background-color: #343a40d1;
 }
 
+
 /**
 * #.# Pagina galeria------------------------------------------------------------------
 *
@@ -1091,12 +1087,10 @@ hr {
 	background-color: rgba(0,0,0,.7);
 }
 
-
-.linkTituloMenu2 {
+.linkTituloMenu2{
     color: #d4aa00ff;
 }
-
-.linkTituloMenu2:hover {
+.linkTituloMenu2:hover{
     color: #dc3545;
     text-decoration: underline;
 }
