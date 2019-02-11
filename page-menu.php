@@ -4,7 +4,7 @@
   <div class="col-md-12 col-lg-12">
         
          <!-- Seccion Platos deliciosos -->
-           <div class="container-fluid py-5 mt-5">
+           <div class="py-5 mt-5">
 
                 <div class="row  d-flex justify-content-center">
                   <div class="col-md-10 text-center ">
@@ -45,7 +45,7 @@
       
 
 
- <div class="container-fluid">
+ <div class="">
         
   <div class="card-deck mt-5">
   <div class="card">
@@ -239,13 +239,13 @@
           <!--Excerpt-->
           <blockquote class="blockquote">
                            <h3 class="mb-4 tipografia1 h1-responsive"><strong class="colorTexto">Plato de entrada</strong></h3>
-          <p>Halleacas..........................................$7.09</p>
+          <p>Halleacas..............................$7.09</p>
           <p class="text-muted">Carne de cerdo, masa, aceitunas, papas</p>
 
-          <p>Waffles de pan de Yuca...................................................$4.99</p>
+          <p>Waffles de pan de Yuca.......................................$4.99</p>
           <p class="text-muted">Harina de yuca, queso, huevo, mantequilla</p>
 
-          <p>Sopa fria de tomate..............................................$5.99</p>
+          <p>Sopa fria de tomate..................................$5.99</p>
           <p class="text-muted">Pimientos, pepino, aceite de oliva</p>
             </blockquote>
           
@@ -291,13 +291,13 @@
           <h3 class="mb-4 tipografia1 h1-responsive"><strong class="colorTexto">Plato fuerte</strong></h3>
          
           
-          <p>Pechuga de pollo a la crema.................................................$7.09</p>
+          <p>Pechuga de pollo a la crema.....................................$7.09</p>
           <p class="text-muted">Pollo, ajo, mantequilla, sal, pimienta, leche</p>
 
-          <p>Salmón en salsa de cilantro..............................................$4.99</p>
+          <p>Salmón en salsa de cilantro..................................$4.99</p>
           <p class="text-muted">Salmón con piel, vino blanco, mantequila</p>
 
-          <p>Solimillo en sal de tres chiles..................................................$5.99</p>
+          <p>Solimillo en sal de tres chiles......................................$5.99</p>
           <p class="text-muted">Solomillo, chile, salsa, pimienta</p>
             </blockquote>
           
@@ -322,7 +322,7 @@
 
       <!--  Seccion  Descuentos-->
 
-      <div class="mb-5 mt-5 ">
+      <div class="mt-5">
         <div class="card card-image bannerMenu">
           <div class="text-white d-flex align-items-center menuBanner rgba-black-strong">
            
