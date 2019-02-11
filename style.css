@@ -1,7 +1,8 @@
-<style > @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
-</style > <style > @import url('https://fonts.googleapis.com/css?family=Yeseva+One');
-</style > body {
-    background-image: url("https://i.ibb.co/99tDr66/16202.jpg");
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
+@import url('https://fonts.googleapis.com/css?family=Yeseva+One');
+
+body {
+    
     font-size: 16px;
 }
 
@@ -19,6 +20,10 @@
     body {
         font-size: 16px;
     }
+    
+    #columnaMenu{
+        display: none;
+    }
 
     
 }
@@ -27,7 +32,14 @@
     body {
         font-size: 0.7rem;
     }
-   
+    
+    .imgServicios {
+        height:15vh;
+    }
+    
+    #columnaMenu{
+        display: none;
+    }
 
 }
 
@@ -1060,3 +1072,23 @@ hr {
         -webkit-transform : scale(1.1);   /* Chrome - Safari */
         -o-transform : scale(1.1);        /* Opera */
   }
+
+/**
+* #.# Pagina menu------------------------------------------------------------------
+*
+* Description .
+*/
+
+.bannerMenu{
+	background-image: url("https://i.ibb.co/w0WNxtq/img-Menu11.jpg");
+	background-size:cover;
+	background-position:center;
+	height:100vh;
+}
+.menuBanner{
+	height: 100vh;
+}
+
+.rgba-black-strong{
+	background-color: rgba(0,0,0,.7);
+}
