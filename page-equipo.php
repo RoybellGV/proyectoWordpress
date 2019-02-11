@@ -3,19 +3,22 @@
 <html>
 
 <!-- Seccion nuestro equipo -->
-
+<div class="col-md-12 col-lg-12">
 <div class="bannerTeam ">
-
     <div class="row aboutBanner d-flex align-items-center">
         <div class="col-md-1">
         </div>
         <div class="col-md-5"> 
             <h2 class="tipografia1 h4-responsive text-uppercase"> <strong class="colorTexto">Nuestro equipo</strong></h2>
             <div class="recuadroNuestroEquipo tipografia2">
-                <h3 class="font-weight-bold pl-5 text-dark">El mas alto compromiso</h3>
+
+                <blockquote class="blockquote">
+                          <h3 class="font-weight-bold pl-5 text-dark">El mas alto compromiso</h3>
                 <p class="pl-5 text-dark">Personal sumamente comprometido con su diario labol en el restaurnte.</p>
                 <p class="pl-5 text-dark">Chef internacionales encargados de capacitar al personal.</p>
                 <p class="pl-5 text-dark">Comprometidos con la calidad y un servicio refinado.</p>
+                        </blockquote>
+                
             </div>
         </div>
     </div>
@@ -39,12 +42,14 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong>John Doe</strong></h4>
+
+                <blockquote class="blockquote">
                 <!-- Subtitle -->
                 
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF REPOSTERO</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en reposteria y postres de los más refinados del estilo italiano </p>
-
+                        </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -59,13 +64,21 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong>Mark Willins</strong></h4>
+                
+                
+                
+              
+                    <blockquote class="blockquote">
                 <!-- Subtitle -->
                 
+                  <!-- Subtitle -->
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF SECUNDARIO</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en carnes rojas, blancas y magras </p>
+                        </blockquote>
 
-
+               
+               
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
                 <!-- Dribbble -->
@@ -79,11 +92,19 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong >Peter Rocha</strong></h4>
+                
+                
+                
+                
+                <blockquote class="blockquote">
                 <!-- Subtitle -->
-               
-                <p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
+<p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina francesa con un gran repertorio de platillos ganadores de premios</p>
+                        </blockquote>
+   
+               
+                
 
 
                 <!-- Twitter -->
@@ -101,10 +122,17 @@
                 <h4 class="card-title "><strong >Mario Perez</strong></h4>
                 <!-- Subtitle -->
          
-                <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
+               
+
+                
+                
+                
+                <blockquote class="blockquote">
+                <!-- Subtitle -->
+ <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina oriental con más de 10 años de esperiencia</p>
-
+                        </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -123,12 +151,15 @@
 
                 <!-- Title -->
                 <h4 class="card-title"><strong>John Doe</strong></h4>
-                <!-- Subtitle -->
-               
-                <p class="card-text colorTexto"><small class="colorTexto">CHEF REPOSTERO</small></p>
                 
+                
+                
+                <blockquote class="blockquote">
+                <!-- Subtitle -->
+                <p class="card-text colorTexto"><small class="colorTexto">CHEF REPOSTERO</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en reposteria y postres de los más refinados del estilo italiano </p>
+                </blockquote>
 
 
                 <!-- Twitter -->
@@ -143,13 +174,18 @@
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
-                <h4 class="card-title "><strong>Mark Willins</strong></h4>
+                <h4 class="card-title "><strong>Mary Willins</strong></h4>
                 <!-- Subtitle -->
                 
+                
+
+                
+                <blockquote class="blockquote">
+                <!-- Subtitle -->
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF SECUNDARIO</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en carnes rojas, blancas y magras </p>
-
+                </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -163,13 +199,19 @@
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
-                <h4 class="card-title"><strong>Peter Rocha</strong></h4>
+                <h4 class="card-title"><strong>Madilin Rocha</strong></h4>
                 <!-- Subtitle -->
                
+                
+
+                
+                
+                <blockquote class="blockquote">
+                <!-- Subtitle -->
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina francesa con un gran repertorio de platillos ganadores de premios</p>
-
+                </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -183,12 +225,17 @@
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
-                <h4 class="card-title"><strong>Mario Perez</strong></h4>
-                <!-- Subtitle -->
+                <h4 class="card-title"><strong>Maria Perez</strong></h4>
+               
+
+                
+                
+                <blockquote class="blockquote">
+                 <!-- Subtitle -->
                 <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
                 <!-- Text -->
                 <p class="card-text text-muted">Especializado en la cocina oriental con más de 10 años de esperiencia</p>
-
+                </blockquote>
 
                 <!-- Twitter -->
                 <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -222,7 +269,7 @@
 
     <div class="card-deck mt-5">
         <div class="card border-0">
-            <img src="https://i.ibb.co/RyRgrNZ/imgTeam6.png" class="mx-auto d-block" height="180">
+            <img src="https://i.ibb.co/RyRgrNZ/imgTeam6.png" class="mx-auto d-block imgServicios" height="180">
 
 
             <div class="card-body card-body-cascade text-center">
@@ -231,32 +278,32 @@
                 <h4 class="card-title tipografia2"><strong>Bodas y Cathering</strong></h4>
                 <!-- Subtitle -->
                 <!-- Text -->
-                <p class="card-text text-muted tipografia2">Asistencia para bodas con servicio de Cathering por lo que no debera preocuparse por lo platillos de la boda</p>
+                <h5 class="card-text text-muted tipografia2">Asistencia para bodas con servicio de Cathering por lo que no debera preocuparse por lo platillos de la boda</h5>
 
             </div>
         </div>
         <div class="card border-0">
-            <img src="https://i.ibb.co/kKqpPZm/imgTeam7.png" class="mx-auto d-block" height="180">
+            <img src="https://i.ibb.co/kKqpPZm/imgTeam7.png" class="mx-auto d-block imgServicios" height="180">
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
                 <h4 class="card-title tipografia2"><strong>Renta de meseros</strong></h4>
                 <!-- Subtitle -->
                 <!-- Text -->
-                <p class="card-text text-muted tipografia2">Poseemos meseros con un alto entrenamiento, para brindar un servicio de la más alta calidad entre los restaurantes más refinados</p>
+                <h5 class="card-text text-muted tipografia2">Poseemos meseros con un alto entrenamiento, para brindar un servicio de la más alta calidad entre los restaurantes más refinados</h5>
 
             </div>
         </div>
 
         <div class="card border-0">
-            <img src="https://i.ibb.co/kKWb3k7/imgTeam8.png" class="mx-auto d-block" height="180">
+            <img src="https://i.ibb.co/kKWb3k7/imgTeam8.png" class="mx-auto d-block imgServicios" height="180">
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
                 <h4 class="card-title tipografia2"><strong>Cathering de negocios</strong></h4>
                 <!-- Subtitle -->
                 <!-- Text -->
-                <p class="card-text text-muted tipografia2">Especializado para esas reuniones de negocios donde despues de largas horas de reunicion son necesarios unos bocadillos de las más alta calidad</p>
+                <h5 class="card-text text-muted tipografia2">Especializado para esas reuniones de negocios donde despues de largas horas de reunicion son necesarios unos bocadillos de las más alta calidad</h5>
 
             </div>
         </div>
@@ -269,7 +316,7 @@
 
     <div class="card-deck mt-5">
         <div class="card border-0">
-            <img src="https://i.ibb.co/82XtVdq/ImgTeam9.png" class="mx-auto d-block" height="180">
+            <img src="https://i.ibb.co/82XtVdq/ImgTeam9.png" class="mx-auto d-block imgServicios" height="180">
 
 
             <div class="card-body card-body-cascade text-center">
@@ -278,32 +325,32 @@
                 <h4 class="card-title tipografia2"><strong>Entrega de menu</strong></h4>
                 <!-- Subtitle -->
                 <!-- Text -->
-                <p class="card-text text-muted tipografia2">Se entrega menus a pedidos para personas que esten interesadas en realizar una reservacion y deseen conocer los platos del día</p>
+                <h5 class="card-text text-muted tipografia2">Se entrega menus a pedidos para personas que esten interesadas en realizar una reservacion y deseen conocer los platos del día</h5>
 
             </div>
         </div>
         <div class="card border-0">
-            <img src="https://i.ibb.co/T2dYhYX/img-Team10.png" class="mx-auto d-block" height="180">
+            <img src="https://i.ibb.co/T2dYhYX/img-Team10.png" class="mx-auto d-block imgServicios" height="180">
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
                 <h4 class="card-title tipografia2"><strong>Consulta de fiestas</strong></h4>
                 <!-- Subtitle -->
                 <!-- Text -->
-                <p class="card-text text-muted tipografia2">Brindamos aistencia para fiestas casuales las cuales quien dar un aire de elegancia con platillos refinados</p>
+                <h5 class="card-text text-muted tipografia2">Brindamos aistencia para fiestas casuales las cuales quien dar un aire de elegancia con platillos refinados</h5>
 
             </div>
         </div>
 
         <div class="card border-0">
-            <img src="https://i.ibb.co/h2MFvKx/img-Team11.png" class="mx-auto d-block" height="180">
+            <img src="https://i.ibb.co/h2MFvKx/img-Team11.png" class="mx-auto d-block imgServicios" height="180">
             <div class="card-body card-body-cascade text-center">
 
                 <!-- Title -->
                 <h4 class="card-title tipografia2"><strong>Menu de dieta</strong></h4>
                 <!-- Subtitle -->
                 <!-- Text -->
-                <p class="card-text text-muted tipografia2">Brindamos un menú con gran variedad de platillos para esas personas que buscan mantener su figura</p>
+                <h5 class="card-text text-muted tipografia2">Brindamos un menú con gran variedad de platillos para esas personas que buscan mantener su figura</h5>
 
             </div>
         </div>
@@ -325,7 +372,7 @@
         </div>
     </div>
 </div>
-
+</div>
 
 </html>
 

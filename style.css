@@ -11,9 +11,7 @@ body {
         font-size: 18px;
     }
 
-    div h1 .textHistoria {
-        color: #343a40;
-    }
+    
 }
 
 @media all and (max-width: 959px) and (min-width: 600px) {
@@ -1091,4 +1089,14 @@ hr {
 
 .rgba-black-strong{
 	background-color: rgba(0,0,0,.7);
+}
+
+
+.linkTituloMenu2 {
+    color: #d4aa00ff;
+}
+
+.linkTituloMenu2:hover {
+    color: #dc3545;
+    text-decoration: underline;
 }

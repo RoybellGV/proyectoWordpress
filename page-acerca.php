@@ -2,15 +2,19 @@
 
 <?php get_header();?>
 
-<div>
+<div class="col-md-12 col-lg-12">
     <!-- Seccion Nosotros -->
-    <div class="bannerFondo">
+    
+    <div class="bannerFondo ">
         <div class="rgba-black-strong col-md-12 col-lg-12 ">
             <div class="text-white ">
                 <div class="row aboutBanner align-items-center">
                     <div class="col text-center text-white">
                         <h1 class="tipografia1 h1-responsive"> <strong class="colorTexto">Nosotros</strong></h1>
-                        <h3 class="tipografia2 h5-responsive mx-3">Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>
+                        
+                        <blockquote class="blockquote">
+                           <h3 class="tipografia2 h5-responsive mx-3">Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>
+                        </blockquote>
                     </div>
                 </div>
             </div>
@@ -30,11 +34,15 @@
             <div class="col-md-5 col-sm-12 pr-0"><img class="img-fluid" src="https://i.ibb.co/2W0ZfdD/img-About1.jpg" alt=""></div>
 
             <div class="col-md-7 col-sm-12 colorfondo seccionQuiSom ">
-                <h3 class="font-weight-bold pl-5 mt-3 text-white text-left tipografia2">Nuestro Compromiso</h3>
-                <p class="pl-5 text-dark tipografia2">Llevar platillos de calidad a su es y que con cada bocado tenga la mejor experiencia.</p>
+               
+               <blockquote class="blockquote">
+                           <h3 class="font-weight-bold pl-5 mt-3 text-white text-left tipografia2">Nuestro Compromiso</h3>
+                <p class="pl-5 text-dark tipografia2">Llevar platillos de calidad a su mesa y que con cada bocado tenga la mejor experiencia.</p>
                 <h3 class="font-weight-bold pl-5 text-white text-left tipografia2">Porque Escogernos</h3>
                 <p class="pl-5 text-dark tipografia2">Con más de 20 años de experiencia liderando restaurantes cinco estrellas.</p>
                 <p class="pl-5 text-dark tipografia2">Ganadores de estrellas Michelin en los ultimos años.</p>
+                        </blockquote>
+                
             </div>
         </div>
     </div>
@@ -58,21 +66,31 @@
 
                     <div class="card-body">
                         <h4 class="card-title tipografia2 "><strong class="text-dark">Establecimiento</strong></h4>
-                        <p class="card-text tipografia2 text-dark ">Un restaurante con un toque rustico</p>
+                        
+                       
+                        <blockquote class="blockquote">
+                           <p class="card-text tipografia2 text-dark ">Un restaurante con un toque rustico</p>
+                        </blockquote>
                     </div>
                 </div>
                 <div class="card degradado border-0">
 
                     <div class="card-body">
                         <h4 class="card-title tipografia2 "><strong class="text-dark">Exitos</strong></h4>
-                        <p class="card-text tipografia2 text-dark ">Ganadores de estrellas Michelin</p>
+                        <blockquote class="blockquote">
+                           <p class="card-text tipografia2 text-dark ">Ganadores de estrellas Michelin</p>
+                        </blockquote>
+                        
                     </div>
                 </div>
                 <div class="card degradado border-0">
 
                     <div class="card-body">
                         <h4 class="card-title tipografia2 "><strong class="text-dark">Tecnologias</strong></h4>
-                        <p class="card-text tipografia2 text-dark ">Las más innovadoras y vanguardistas de la epoca</p>
+                        <blockquote class="blockquote">
+                           <p class="card-text tipografia2 text-dark ">Las más innovadoras y vanguardistas de la epoca</p>
+                        </blockquote>
+                        
                     </div>
                 </div>
             </div>
@@ -111,10 +129,14 @@
                     <div class="card-body">
                         <!--Name-->
                         <h4 class="card-title text-uppercase text-dark tipografia2">Anna Doe</h4>
-                        <h5 class="text-danger tipografia2">Cliente</h5>
+                        
+                        <blockquote class="blockquote">
+                           <h5 class="text-danger tipografia2">Cliente</h5>
                         <hr>
                         <!--Quotation-->
                         <p class="text-dark tipografia2">Super complacida con el servicio recibido, platillos deliciosos.</p>
+                        </blockquote>
+                        
 
                     </div>
                 </div>
