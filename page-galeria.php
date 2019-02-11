@@ -1,7 +1,7 @@
 <html>
 
 <?php get_header();?>
-  <div class="col-md-12 col-lg-12">
+  <div class="">
      <!-- Seccion Galeria -->        
           <div class="bannerGaleria mb-5">
           <div class=" col-md-12 col-lg-12 ">
@@ -24,8 +24,8 @@
   <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
-      <p class="galeria1 ml-1 img-fluid"></p>
+    <div class="view zoom d-flex justify-content-center overlay">
+      <p class="galeria1 ml-1 img-fluid "></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
       </a>
@@ -49,7 +49,7 @@
   <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria2 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -74,7 +74,7 @@
  <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria3 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -120,7 +120,7 @@
   <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria4 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -145,7 +145,7 @@
   <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria5 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -170,7 +170,7 @@
  <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria6 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -216,7 +216,7 @@
   <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria7 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -241,7 +241,7 @@
   <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria8 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
@@ -266,7 +266,7 @@
  <div class="card mb-4">
 
     <!--Card image-->
-    <div class="view zoom overlay">
+    <div class="view zoom d-flex justify-content-center  overlay">
       <p class="galeria9 ml-1 img-fluid"></p>
       <a href="#!">
         <div class="mask rgba-white-slight"></div>
