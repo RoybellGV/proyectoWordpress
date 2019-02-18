@@ -10,7 +10,7 @@
                 <div class="  d-flex justify-content-center">
                   <div class="col-md-10 text-center ">
                    
-                     <h1 class="tipografia1 h1-responsive"> <strong>Platos deliciosos</strong></h1>
+                     <h1 class="tipografia1 h1-responsive animated fadeIn slow"> <strong>Platos deliciosos</strong></h1>
                      <blockquote class="blockquote">
                            <h3 class="tipografia2 h5-responsive mx-3">Contamos con gran variedad de platillos hechos por chef de varios paises, que dan su toque personal a cada platillo, dando un gusto unico.</h3>
                         </blockquote>   
@@ -46,7 +46,7 @@
       
 
 
- <div class="">
+ <div class="animated fadeInUp slow">
         
   <div class="card-deck mt-5">
   <div class="card">
@@ -258,7 +258,7 @@
         <div class="col-lg-5 col-xl-5 mb-5">
           <!--Featured image-->
           <div class="view overlay rounded z-depth-2">
-            <img src="https://i.ibb.co/jhnZKX6/imgMenu9.jpg" alt="" class="img-fluid">
+            <img src="https://i.ibb.co/jhnZKX6/imgMenu9.jpg" alt="" class="img-fluid animated fadeInRight slow">
             <a>
               <div class="mask waves-effect waves-light"></div>
             </a>
@@ -274,7 +274,7 @@
         <div class="col-lg-5 col-xl-5 pb-3">
           <!--Featured image-->
           <div class="view overlay rounded z-depth-2">
-            <img src="https://i.ibb.co/rkCDtwV/img-Menu10.jpg" alt="" class="img-fluid">
+            <img src="https://i.ibb.co/rkCDtwV/img-Menu10.jpg" alt="" class="img-fluid animated fadeInLeft slow">
             <a>
               <div class="mask waves-effect waves-light"></div>
             </a>
@@ -328,7 +328,7 @@
           <div class="text-white d-flex align-items-center menuBanner rgba-black-strong">
            
             
-            <div class="  col-md-12 col-lg-12 text-right">            
+            <div class="  col-md-12 col-lg-12 text-right animated fadeInLeft slow">            
                 <h3 class="tipografia1 text-uppercase display-5"><strong class="colorTexto">Felices clientes</strong></h3>
 
               <h2 class="text-white font-weight-bold tipografia2"> <strong>DESCUENTOS DEL 50%</strong></h2>

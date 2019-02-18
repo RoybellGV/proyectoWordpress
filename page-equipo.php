@@ -227,7 +227,7 @@
         </div>
     </div>
 
-    <div class="card-deck mt-5">
+    <div class="card-deck mt-5 animated fadeInRight slow">
         <div class="card border-0">
             <img src="https://i.ibb.co/RyRgrNZ/imgTeam6.png" class="mx-auto d-block imgServicios" height="180">
 
@@ -274,7 +274,7 @@
 
 
 
-    <div class="card-deck mt-5">
+    <div class="card-deck mt-5 animated fadeInLeft slow">
         <div class="card border-0">
             <img src="https://i.ibb.co/82XtVdq/ImgTeam9.png" class="mx-auto d-block imgServicios" height="180">
 
@@ -326,7 +326,7 @@
 <div class="container-fluid bannerTeam2 mt-5">
 
     <div class="row teamBanner align-items-center justify-content-center">
-        <div class="col-md-10 text-center cuadroOrgullo py-5">
+        <div class="col-md-10 text-center cuadroOrgullo py-5 animated fadeIn slow">
             <h1 class="h4-responsive tipografia1 "> <strong class="colorTexto">Estamos orgullosos de servirle</strong></h1>
            
         </div>

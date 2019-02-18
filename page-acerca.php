@@ -10,7 +10,7 @@
           <div class="text-white ">
             <div class="row aboutBanner align-items-center">
                   <div class="col text-center text-white">
-                    <h1 class="tipografia1 h1-responsive"> <strong class="colorTexto">Nosotros</strong></h1>
+                    <h1 class="tipografia1 h1-responsive animated fadeIn slow"> <strong class="colorTexto">Nosotros</strong></h1>
                       <h3 class="tipografia2 h5-responsive mx-3">Enfocados en el servicio de las más alta calidad para clientes con un alto paladar refinado</h3>  
                   </div>
                 </div>
@@ -30,7 +30,7 @@
   
                   <div class="col-md-5 col-sm-12 pr-0"><img class="img-fluid" src="https://i.ibb.co/2W0ZfdD/img-About1.jpg" alt=""></div>
   
-                  <div class="col-md-7 col-sm-12 colorfondo seccionQuiSom ">
+                  <div class="col-md-7 col-sm-12 colorfondo seccionQuiSom animated fadeInRight slow">
                      <blockquote class="blockquote"> 
                     <h3 class="font-weight-bold pl-5 mt-3 text-white text-left tipografia2">Nuestro Compromiso</h3>
                      <p class="pl-5 text-dark tipografia2">Llevar platillos de calidad a su es y que con cada bocado tenga la mejor experiencia.</p>
@@ -59,7 +59,7 @@
     </div>
 
    <div class="row d-flex d-flex justify-content-center">
-    <div class="card-deck text-center mt-4">
+    <div class="card-deck text-center mt-4 animated fadeInUp slow">
         <div class="card degradado border-0">
 
             <div class="card-body">
@@ -108,7 +108,7 @@
                       </div>
                     </div>
 
-                  <div class="row d-flex justify-content-center">
+                  <div class="row d-flex justify-content-center animated fadeIn slow">
                     
                     <div class="col-md-6 mb-4">
                     <!--Card-->

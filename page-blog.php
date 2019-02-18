@@ -55,7 +55,7 @@
             </div>
 
             <div class="col-md-4 mb-4 mt-3">
-                <div class="card mb-4 colorfondo">
+                <div class="card mb-4 colorfondo text-white">
                     <div class="card-header text-center tipografia2">
                         <h4 class="card-title tipografia2 my-4"><strong>¿Deseas recibir noticias?</strong></h4>
                     </div>
@@ -65,15 +65,11 @@
                             <label class="grey-text">Your email</label>
                             <input type="email" id="defaultFormLoginEmailEx" class="form-control">
                             <div class="text-center mt-4">
-                                <button class="btn btn-danger btn-md waves-effect waves-light btn-lg text-uppercase tipografia2" type="submit">Suscribirse</button>
+                                <button class="btn btn-danger btn-md waves-effect waves-light btn-lg text-uppercase tipografia2 myButton1" type="submit">Suscribirse</button>
                             </div>
                         </form>
                     </div>
 
-                    <!--
-                    <div class="card-header text-center tipografia2 mt-3">
-                    <h4 class="card-title tipografia2 my-4"><strong>Siguenos en</strong><i class="fab fa-facebook-square  fa-2x ml-3 btn-logBlog"></i><i class="fab fa-twitter-square fa-2x  ml-3 btn-logBlog"></i></h4></div>
--->
                     <div class="row m-auto">
                         <div class="col  text-white d-flex align-items-center">
                             <h4 class="card-title tipografia2 my-4 d-flex align-items-center"><strong>Siguenos en</strong><i class="fab fa-facebook-square fa-2x ml-3 btn-logBlog"></i><i class="fab fa-twitter-square fa-2x  ml-3 btn-logBlog"></i></h4>
@@ -177,7 +173,7 @@
 
     <div class="row blogBanner">
         <div class="col text-center mt-5 pt-5 text-white">
-            <h1 class="tipografia1 h1-responsive"> <strong>Te gusta la comida sabrosa</strong></h1>
+            <h1 class="tipografia1 h1-responsive animated fadeInUpBig slow"> <strong>Te gusta la comida sabrosa</strong></h1>
 
         </div>
     </div>
