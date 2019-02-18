@@ -1,13 +1,6 @@
-<html>
+<?php get_header();?>
 
-	
-      
-    <?php get_header();?>
-
-
-
-  
-  <!--Slider wordpress-->
+<!--Slider wordpress-->
   <div>
     <ul class="slider text-center">
         <?php 
@@ -17,7 +10,7 @@
             if($the_query->have_posts()) :
                 while($the_query->have_posts()) : $the_query->the_post(); ?>
                     <li><img class='img-full-width' src="<?php echo wp_get_attachment_url( get_post_thumbnail_id($post->ID), 'thumbnail' ); ?>" />
-                    <h1 class='caption text-light'><?php the_title(); ?></h1></li>
+                    <h1 class='caption text-light animated fadeIn slow'><?php the_title(); ?></h1></li>
                 <?php endwhile;
             else :
                 echo "<p>no hay contenido</p>";
@@ -27,12 +20,10 @@
 </div>
   <!--/.Slider wordpress-->
   
-  
-  
-  
+ 
 <!--/.Carousel Wrapper-->
     <div></div>
-    <div class="text-dark text-center">
+    <div class="text-dark text-center animated fadeIn slow delay-1s">
         <h1 class="mt-5 tipografia1">Visitenos</h1>
         <h2 class=" tipografia2 mb-3 font-weight-bold">¡Un gusto a su paladar!</h2>
     </div>
@@ -41,7 +32,7 @@
     
         
     
-     <div id="imagen2">
+     <div id="imagen2" class="animated bounceInLeft delay-1s">
    <div id="info">
     <h1 > <p id="headline" >Western Food</p></h1>
     <h2 > <p id="descripcion">Nuestra Especialidad</p></h2>
@@ -53,7 +44,7 @@
  </div>
 
             
- <div id="imagen">
+ <div id="imagen" class="animated bounceInRight delay-1s">
    <div id="info">
     <h1 > <p id="headline" >Nuestro Menu</p></h1>
     <h2 > <p id="descripcion">Variedad que deleita</p></h2>
@@ -64,13 +55,9 @@
     
    </div>
  </div>
-    
-
-
-    
 
   <div></div>
-    <div class="text-dark mb-5 text-center tipografia1">
+    <div class="text-dark mb-5 text-center tipografia1 animated fadeIn slow delay-1s">
         <h1 class="mt-5">Nuestro Contacto</h1>
         <h2><i class="fas fa-phone text-dark mx-2 "></i>(+506)8610-7395</h2>
         <h2><i class="fas fa-envelope text-dark mx-3"></i>food@gmail.com</h2>
@@ -78,10 +65,4 @@
     </div>
     <div>
     </div>  
-
-    
-    
-    
-     <?php get_footer();?>
-  
-</html>
+ <?php get_footer();?>

@@ -1,12 +1,10 @@
-<html>
-
 <?php get_header();?>
-  <div class="">
+  <div>
      <!-- Seccion Galeria -->        
           <div class="bannerGaleria mb-5">
           <div class=" col-md-12 col-lg-12 ">
           <div class="text-white ">
-            <div class="row aboutBanner align-items-center">
+            <div class="row aboutBanner align-items-center animated bounceInUp">
                   <div class="col text-center text-white">
                     <h1 class="tipografia1 "> <strong class="text-light">Western Food</strong></h1>
                       <h2 class="tipografia2 mx-3">Nuestra Especialidad</h2>  
@@ -18,7 +16,7 @@
   <!-- Fin Seccion galeria-->
     
     <!-- Card deck -->
-<div class="card-deck mx-1">
+<div class="card-deck mx-1 animated bounceInLeft delay-1s">
 
   <!-- Card -->
   <div class="card mb-4">
@@ -102,7 +100,7 @@
           <div class="bannerGaleria2 mb-5">
           <div class=" col-md-12 col-lg-12 ">
           <div class="text-white ">
-            <div class="row aboutBanner align-items-center ">
+            <div class="row aboutBanner align-items-center animated bounceInUp delay-2s">
                   <div class="col text-right text-white mr-5">
                     <h1 class="tipografia1  "> <strong class="text-light">Seafood</strong></h1>
                       <h2 class="tipografia2 mx-3 ">Delicias del Mar</h2>  
@@ -114,7 +112,7 @@
   <!-- Fin Seccion galeria-->
       
           <!-- Card deck -->
-<div class="card-deck mx-1">
+<div class="card-deck mx-1 animated bounceInRight delay-3s">
 
   <!-- Card -->
   <div class="card mb-4">
@@ -198,7 +196,7 @@
           <div class="bannerGaleria3 mb-5">
           <div class=" col-md-12 col-lg-12 ">
           <div class="text-white ">
-            <div class="row aboutBanner align-items-center ">
+            <div class="row aboutBanner align-items-center animated bounceInUp delay-4s">
                   <div class="col text-center text-white mb-10">
                     <h1 class="tipografia1  "> <strong class="text-light">Desserts</strong></h1>
                       <h2 class="tipografia2 mx-3 ">Postres Gourmet</h2>  
@@ -210,7 +208,7 @@
   <!-- Fin Seccion galeria-->
       
                 <!-- Card deck -->
-<div class="card-deck mx-1">
+<div class="card-deck mx-1 animated bounceInLeft delay-5s">
 
   <!-- Card -->
   <div class="card mb-4">
@@ -294,5 +292,5 @@
 <?php get_footer();?>
 
 
-</html>
+
 

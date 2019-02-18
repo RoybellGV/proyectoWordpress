@@ -1,6 +1,5 @@
 <?php get_header();?>
 
-<html>
 <!-- Section: Contact v.3 -->
 <section class="contact-section my-5  ">
     <!-- Form with header -->
@@ -8,7 +7,7 @@
         <!-- Grid row -->
         <div class="row  claseDelDiv">
             <!-- Grid column -->
-            <div class="col-lg-8">
+            <div class="col-lg-8 animated bounceInLeft">
                 <div class="card-body form">
                     <!-- Header -->
                     <h2 class="mt-4 text-center font-weight-bold tipografia1" style="color:#d4aa00ff" ;><i class="fas fa-envelope pr-2 "></i>Escribenos:</h2>
@@ -78,7 +77,7 @@
             <!-- Grid column -->
 
             <!-- Grid column -->
-            <div class="col-lg-4 text-center d-flex justify-content-center font-weight-bold ">
+            <div class="col-lg-4 text-center d-flex justify-content-center font-weight-bold animated bounceInRight">
 
                  <div class="color tipografia2">
                 
@@ -117,8 +116,5 @@
 
 <!-- Section: Contact v.3 -->
 
-
-
-</html>
 
 <?php get_footer();?>
