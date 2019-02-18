@@ -79,31 +79,31 @@
             <!-- Grid column -->
             <div class="col-lg-4 text-center d-flex justify-content-center font-weight-bold animated bounceInRight">
 
-                 <div class="color tipografia2">
-                
-                
-                <blockquote class="blockquote my-5">
-                
-                    <h2 class=" text-white tipografia2">Información de Contacto</h2>
-                    <ul class="text-lg-left list-unstyled">
-                        <li>
-                            <h3 class="text-white text-center"><i class="fas fa-map-marker-alt pr-2 text-white"></i>Puntarenas,CR</h3>
-                        </li>
-                        <li>
-                            <h3 class="text-white text-center"><i class="fas fa-phone pr-2 text-white"></i>(+506)8610-7395</h3>
-                        </li>
-                        <li>
-                            <h3 class="text-white text-center"><i class="fas fa-envelope pr-2 text-white"></i>food@gmail.com</h3>
-                        </li>
-                    </ul>
-                    <hr class="hr-light my-4">
-                </blockquote>
-                
-                
-            </div>
+                <div class="color tipografia2">
+
+
+                    <blockquote class="blockquote my-5">
+
+                        <h2 class=" text-white tipografia2">Información de Contacto</h2>
+                        <ul class="text-lg-left list-unstyled">
+                            <li>
+                                <h3 class="text-white text-center"><i class="fas fa-map-marker-alt pr-2 text-white"></i>Puntarenas,CR</h3>
+                            </li>
+                            <li>
+                                <h3 class="text-white text-center"><i class="fas fa-phone pr-2 text-white"></i>(+506)8610-7395</h3>
+                            </li>
+                            <li>
+                                <h3 class="text-white text-center"><i class="fas fa-envelope pr-2 text-white"></i>food@gmail.com</h3>
+                            </li>
+                        </ul>
+                        <hr class="hr-light my-4">
+                    </blockquote>
+
+
+                </div>
 
             </div>
-            
+
             <!-- Grid column -->
 
         </div>
