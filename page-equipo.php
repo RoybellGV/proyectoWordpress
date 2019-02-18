@@ -1,9 +1,7 @@
 <?php get_header();?>
 
-<html>
-
 <!-- Seccion nuestro equipo -->
-<div class="">
+<div>
 <div class="bannerTeam ">
 
     <div class=" aboutBanner d-flex align-items-center">
@@ -334,6 +332,5 @@
 </div>
 
 </div>
-</html>
 
 <?php get_footer();?>

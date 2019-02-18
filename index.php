@@ -42,13 +42,10 @@
         
     
      <div id="imagen2">
- <div id="info">
+   <div id="info">
     <h1 > <p id="headline" >Western Food</p></h1>
     <h2 > <p id="descripcion">Nuestra Especialidad</p></h2>
-  
-    <p id="descripcion"><a type="button" class="btn btn-warning text-light myButton" href="galeria/">Visitar la Galeria</a></p>
-
-
+    <p id="descripcion"><button type="button" class="btn btn-warning text-light myButton">Visitar la Galeria</button></p>
     
     
     
@@ -60,8 +57,8 @@
    <div id="info">
     <h1 > <p id="headline" >Nuestro Menu</p></h1>
     <h2 > <p id="descripcion">Variedad que deleita</p></h2>
-
-    <p id="descripcion"><a class="btn btn-warning text-light myButton" href="menu/"  >Ir al Menu</a></p>
+    <p id="descripcion"><button class="btn btn-warning text-light myButton"  >Ir al Menu</button></p>
+   
     
 
     

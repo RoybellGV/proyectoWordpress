@@ -9,6 +9,9 @@ wp_enqueue_style('bootstrap_css', 'https://stackpath.bootstrapcdn.com/bootstrap/
     
 wp_enqueue_style('fontawesome_css', 'https://use.fontawesome.com/releases/v5.6.3/css/all.css' );
     
+wp_enqueue_style('animate_css', 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css');
+wp_enqueue_style('yeseva_font', 'https://fonts.googleapis.com/css?family=Yeseva+One');
+wp_enqueue_style('crimson_font', 'https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
     
     //load style.css
 wp_enqueue_style('style', get_stylesheet_uri());

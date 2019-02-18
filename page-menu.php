@@ -1,13 +1,11 @@
 
-<html>
-
  <?php get_header();?>
-  <div class="">
+  <div>
        
          <!-- Seccion Platos deliciosos -->
            <div class="py-5 mt-5">
 
-                <div class="  d-flex justify-content-center">
+                <div class="d-flex justify-content-center">
                   <div class="col-md-10 text-center ">
                    
                      <h1 class="tipografia1 h1-responsive animated fadeIn slow"> <strong>Platos deliciosos</strong></h1>
@@ -24,7 +22,7 @@
       <!-- Fin Seccion  equipo-->
       
       <!-- Galleria menu -->
-      <div class="  d-flex justify-content-center">
+      <div class="d-flex justify-content-center">
 <div class="classic-tabs col-md-10">
 
   <ul class="nav bg-dark d-flex justify-content-center mb-5" id="myClassicTab" role="tablist">
@@ -343,8 +341,3 @@
       </div>
   
 <?php get_footer();?>
-
-
-
-
-</html>

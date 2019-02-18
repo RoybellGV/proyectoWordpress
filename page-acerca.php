@@ -1,4 +1,3 @@
-<html>
     
  <?php get_header();?>
  
@@ -157,5 +156,3 @@
 <!-- Section: Contact v.3 -->
 </div> 
   <?php get_footer();?>
-
-</html>
