@@ -9,7 +9,6 @@
 </head>
     <body <?php body_class();?> >
         
-
 <!--Navbar -->
 <nav class="nav mb-1 icono navbar navbar-expand-lg navbar-dark orange contrast lighten-1 " role="navigation">
         

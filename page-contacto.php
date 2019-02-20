@@ -1,6 +1,6 @@
 <?php get_header();?>
 
-<!-- Section: Contact v.3 -->
+<!-- Section: Contact-->
 <section class="contact-section my-5  ">
     <!-- Form with header -->
     <div class="card col-sm-12 col-lg-12 ">
@@ -114,7 +114,7 @@
 
 </section>
 
-<!-- Section: Contact v.3 -->
+<!-- Section: Contact -->
 
 
 <?php get_footer();?>

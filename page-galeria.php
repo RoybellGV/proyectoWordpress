@@ -1,6 +1,7 @@
 <?php get_header();?>
 <div>
-    <!-- Seccion Galeria -->
+
+    <!-- Seccion Galeria sección superior -->
     <div class="bannerGaleria mb-5">
         <div class=" col-md-12 col-lg-12 ">
             <div class="text-white ">
@@ -13,9 +14,9 @@
             </div>
         </div>
     </div>
-    <!-- Fin Seccion galeria-->
+    <!-- Fin Seccion galeria sección superior-->
 
-    <!-- Card deck -->
+    <!-- Card deck sección superior -->
     <div class="card-deck mx-1 animated bounceInLeft delay-1s">
 
         <!-- Card -->
@@ -91,12 +92,12 @@
             </div>
 
         </div>
-        <!-- Card -->
+        <!-- Card sección superior -->
 
     </div>
     <!-- Card deck -->
 
-    <!-- Seccion Galeria -->
+    <!-- Seccion Galeria sección central -->
     <div class="bannerGaleria2 mb-5">
         <div class=" col-md-12 col-lg-12 ">
             <div class="text-white ">
@@ -109,9 +110,9 @@
             </div>
         </div>
     </div>
-    <!-- Fin Seccion galeria-->
+    <!-- Fin Seccion galeria sección central-->
 
-    <!-- Card deck -->
+    <!-- Card deck sección central-->
     <div class="card-deck mx-1 animated bounceInRight delay-3s">
 
         <!-- Card -->
@@ -187,12 +188,12 @@
             </div>
 
         </div>
-        <!-- Card -->
+        <!-- Card sección central -->
 
     </div>
     <!-- Card deck -->
 
-    <!-- Seccion Galeria -->
+    <!-- Seccion Galeria sección inferior -->
     <div class="bannerGaleria3 mb-5">
         <div class=" col-md-12 col-lg-12 ">
             <div class="text-white ">
@@ -205,9 +206,9 @@
             </div>
         </div>
     </div>
-    <!-- Fin Seccion galeria-->
+    <!-- Fin Seccion galeria sección inferior-->
 
-    <!-- Card deck -->
+    <!-- Card deck sección inferior -->
     <div class="card-deck mx-1 animated bounceInLeft delay-5s">
 
         <!-- Card -->
@@ -283,10 +284,11 @@
             </div>
 
         </div>
-        <!-- Card -->
+        <!-- Card sección inferior -->
 
     </div>
-    <!-- Card deck -->
+
+
 </div>
 
 <?php get_footer();?>

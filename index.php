@@ -24,7 +24,7 @@
 <!--/.Slider wordpress-->
 
 
-<!--/.Carousel Wrapper-->
+<!--/.Seccion de texto e imagenes del centro de la pagina web-->
 <div></div>
 <div class="text-dark text-center animated fadeIn slow delay-1s">
     <h1 class="mt-5 tipografia1">Visitenos</h1>
@@ -76,4 +76,5 @@
 </div>
 <div>
 </div>
+<!--/.Seccion de texto e imagenes del centro de la pagina web-->
 <?php get_footer();?>
