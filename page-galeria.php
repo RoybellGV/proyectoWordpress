@@ -38,9 +38,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$4.99</button>
-
             </div>
-
         </div>
         <!-- Card -->
 
@@ -63,9 +61,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$5.99</button>
-
             </div>
-
         </div>
         <!-- Card -->
 
@@ -88,9 +84,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$5.50</button>
-
             </div>
-
         </div>
         <!-- Card sección superior -->
 
@@ -134,9 +128,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$6.99</button>
-
             </div>
-
         </div>
         <!-- Card -->
 
@@ -159,9 +151,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$9.99</button>
-
             </div>
-
         </div>
         <!-- Card -->
 
@@ -184,9 +174,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$7.99</button>
-
             </div>
-
         </div>
         <!-- Card sección central -->
 
@@ -230,9 +218,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$4.99</button>
-
             </div>
-
         </div>
         <!-- Card -->
 
@@ -255,9 +241,7 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$6.50</button>
-
             </div>
-
         </div>
         <!-- Card -->
 
@@ -280,15 +264,10 @@
 
                 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
                 <button class="btn btn-warning text-light mx-2 mt-3 float-right">$1.50</button>
-
             </div>
-
         </div>
         <!-- Card sección inferior -->
-
     </div>
-
-
 </div>
 
 <?php get_footer();?>

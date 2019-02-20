@@ -1,9 +1,20 @@
+/*!
+Theme Name: Restauntroan
+Template Theme URI: http://www.srp.ucr.ac.cr/
+Author: Roybell Guerrero Venegas/Andrés Solano
+Author URI: http://www.srp.ucr.ac.cr/
+Description: Tema del curso de Desarrollo Rápido de Aplicaciones para el proyecto final
+Version: 1.0
+License: GNU General Public License v2
+*/
+
+
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700i');
 
 @import url('https://fonts.googleapis.com/css?family=Yeseva+One');
 
 body {
-   
+
     font-size: 16px;
 }
 
@@ -22,19 +33,19 @@ body {
         font-size: 16px;
     }
 
-    
+
 }
 
 @media all and (max-width: 599px) and (min-width: 320px) {
     body {
         font-size: 0.7rem;
     }
-    .imgServicios
-    {
+
+    .imgServicios {
         height: 15vh;
     }
-    
-   
+
+
 
 }
 
@@ -654,7 +665,7 @@ a {
 * {
     margin: 0;
     padding: 0;
-/*    color: #fff;*/
+    /*    color: #fff;*/
 
 }
 
@@ -695,7 +706,7 @@ p#headline {
     font-family: 'Yeseva One', bold;
     font-size: 100%;
     text-align: center;
-    color:#fff;
+    color: #fff;
 }
 
 div#imagen:hover p#headline {}
@@ -708,7 +719,7 @@ p#descripcion {
     font-family: 'Yeseva One', bold;
     font-size: 80%;
     text-align: center;
-     color:#fff;
+    color: #fff;
 }
 
 div#imagen:hover p#descripcion {
@@ -787,7 +798,7 @@ hr {
     background: -moz-linear-gradient(top, rgba(247, 238, 71, 1) 0%, rgba(255, 255, 255, 0) 100%);
     background: -webkit-linear-gradient(top, rgba(247, 238, 71, 1) 0%, rgba(255, 255, 255, 0) 100%);
     background: linear-gradient(to bottom, rgba(247, 238, 71, 1) 0%, rgba(255, 255, 255, 0) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7ee47', endColorstr='#00ffffff', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7ee47', endColorstr='#00ffffff', GradientType=0);
 }
 
 .testimonio {
@@ -801,7 +812,7 @@ hr {
 }
 
 .bordeCard {
-    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15)!important;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15) !important;
 }
 
 .map {
@@ -916,32 +927,32 @@ hr {
 
 /*pagina teamaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan*/
 
-.bannerTeam{
-	background-image: url("https://i.ibb.co/HLSZnSX/imgTeam1.jpg");
+.bannerTeam {
+    background-image: url("https://i.ibb.co/HLSZnSX/imgTeam1.jpg");
     background-attachment: fixed;
-	background-size:cover;
-	background-position:center;
-	height:100vh;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
-.bannerTeam2{
-	background-image: url("https://i.ibb.co/37c83d4/banner-Team2.jpg");
-	background-size:cover;
-	background-position:center;
-	height:100vh;
+.bannerTeam2 {
+    background-image: url("https://i.ibb.co/37c83d4/banner-Team2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
-.borderServirte{
-	border: 5px solid red;
+.borderServirte {
+    border: 5px solid red;
 
 }
 
-.teamBanner{
-	height: 100vh;
+.teamBanner {
+    height: 100vh;
 }
 
-.recuadroNuestroEquipo{
-	background-color: #e6e6e691;
+.recuadroNuestroEquipo {
+    background-color: #e6e6e691;
 }
 
 .btn-logTeam {
@@ -952,7 +963,8 @@ hr {
 
     color: black;
 }
-.cuadroOrgullo{
+
+.cuadroOrgullo {
     background-color: #343a40d1;
 }
 
@@ -962,7 +974,7 @@ hr {
 *
 * Description .
 */
-.bannerGaleria{
+.bannerGaleria {
     background-image: url("https://i.ibb.co/99tDr66/16202.jpg");
     background-attachment: fixed;
     background-size: cover;
@@ -970,22 +982,25 @@ hr {
     background-position: center;
     height: 80vh;
 }
-.galeria1{
+
+.galeria1 {
     background-image: url("https://i.ibb.co/8dtkN58/11.png");
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 40vh;
-   
+
 }
-.galeria2{
+
+.galeria2 {
     background-image: url("https://i.ibb.co/JrPFDJn/aaa.png");
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 40vh;
 }
-.galeria3{
+
+.galeria3 {
     background-image: url("https://i.ibb.co/mbb1FPD/33.png");
     background-size: cover;
     background-position: center;
@@ -993,7 +1008,7 @@ hr {
     width: 40vh;
 }
 
-.bannerGaleria2{
+.bannerGaleria2 {
     background-image: url("https://i.ibb.co/8rMKW27/3041.jpg");
     background-attachment: fixed;
     background-size: cover;
@@ -1002,21 +1017,23 @@ hr {
     height: 80vh;
 }
 
-.galeria4{
+.galeria4 {
     background-image: url("https://i.ibb.co/9WYg09M/44.png");
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 40vh;
 }
-.galeria5{
+
+.galeria5 {
     background-image: url("https://i.ibb.co/JFF77QP/55.png");
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 40vh;
 }
-.galeria6{
+
+.galeria6 {
     background-image: url("https://i.ibb.co/r0LbTtD/66.png");
     background-size: cover;
     background-position: center;
@@ -1024,7 +1041,7 @@ hr {
     width: 40vh;
 }
 
-.bannerGaleria3{
+.bannerGaleria3 {
     background-image: url("https://i.ibb.co/vkhZr05/282860-P61-N1-Z-483.jpg");
     background-attachment: fixed;
     background-size: cover;
@@ -1032,21 +1049,24 @@ hr {
     background-position: center;
     height: 80vh;
 }
-.galeria7{
+
+.galeria7 {
     background-image: url("https://i.ibb.co/tZSRnvF/77.png");
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 40vh;
 }
-.galeria8{
+
+.galeria8 {
     background-image: url("https://i.ibb.co/WHhfcg4/88.png");
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 40vh;
 }
-.galeria9{
+
+.galeria9 {
     background-image: url("https://i.ibb.co/ZSJYRHr/99.png");
     background-size: cover;
     background-position: center;
@@ -1055,20 +1075,24 @@ hr {
 }
 
 
-.zoom{
-        /* Aumentamos el ancho y la altura durante 1 segundo */
-        transition: width 1s, height 1s, transform 1s;
-        -moz-transition: width 1s, height 1s, -moz-transform 1s;
-        -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
-        -o-transition: width 1s, height 1s,-o-transform 1s;    
-    }
-.zoom:hover{
-        /* tranformamos  su tamaño al pasar el mouse por encima con scale(2.5). */
-        transform : scale(1.1);
-        -moz-transform : scale(1.1);      /* Firefox */
-        -webkit-transform : scale(1.1);   /* Chrome - Safari */
-        -o-transform : scale(1.1);        /* Opera */
-  }
+.zoom {
+    /* Aumentamos el ancho y la altura durante 1 segundo */
+    transition: width 1s, height 1s, transform 1s;
+    -moz-transition: width 1s, height 1s, -moz-transform 1s;
+    -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
+    -o-transition: width 1s, height 1s, -o-transform 1s;
+}
+
+.zoom:hover {
+    /* tranformamos  su tamaño al pasar el mouse por encima con scale(2.5). */
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    /* Firefox */
+    -webkit-transform: scale(1.1);
+    /* Chrome - Safari */
+    -o-transform: scale(1.1);
+    /* Opera */
+}
 
 /**
 * #.# Pagina menu------------------------------------------------------------------
@@ -1076,74 +1100,88 @@ hr {
 * Description .
 */
 
-.bannerMenu{
-	background-image: url("https://i.ibb.co/w0WNxtq/img-Menu11.jpg");
-	background-size:cover;
-	background-position:center;
-	height:100vh;
-}
-.menuBanner{
-	height: 100vh;
+.bannerMenu {
+    background-image: url("https://i.ibb.co/w0WNxtq/img-Menu11.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
-.rgba-black-strong{
-	background-color: rgba(0,0,0,.7);
+.menuBanner {
+    height: 100vh;
 }
 
-.linkTituloMenu2{
+.rgba-black-strong {
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.linkTituloMenu2 {
     color: #d4aa00ff;
 }
-.linkTituloMenu2:hover{
+
+.linkTituloMenu2:hover {
     color: #dc3545;
     text-decoration: underline;
 }
 
 
 .myButton {
-	background-color:#d4aa00;
-	-moz-border-radius:28px;
-	-webkit-border-radius:28px;
-	border-radius:28px;
-	border:1px solid #d4aa00;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
+    background-color: #d4aa00;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #d4aa00;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
 }
+
 .myButton:hover {
-	background-color:#d9ce4b;
+    background-color: #d9ce4b;
 }
+
 .myButton:active {
-	position:relative;
-	top:1px;
+    position: relative;
+    top: 1px;
 }
 
 .myButton1 {
-	
-    background-color:#dc3545;
-	-moz-border-radius:28px;
-	-webkit-border-radius:28px;
-	border-radius:28px;
-	border:1px solid #dc3545;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
+
+    background-color: #dc3545;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #dc3545;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
 }
+
 .myButton1:hover {
-	background-color:#f76977;
+    background-color: #f76977;
 }
+
 .myButton1:active {
-	position:relative;
-	top:1px;
+    position: relative;
+    top: 1px;
 }
 
-
+.top-btn {
+    display: inline-block;
+    position: fixed;
+    color: #7bc55c;
+    bottom: 20px;
+    font-family: 'CicleGordita';
+    font-size: 25px;
+    border-bottom: 2px dotted #7bc55c;
+}

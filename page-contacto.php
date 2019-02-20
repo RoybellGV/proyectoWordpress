@@ -78,12 +78,8 @@
 
             <!-- Grid column -->
             <div class="col-lg-4 text-center d-flex justify-content-center font-weight-bold animated bounceInRight">
-
                 <div class="color tipografia2">
-
-
                     <blockquote class="blockquote my-5">
-
                         <h2 class=" text-white tipografia2">Información de Contacto</h2>
                         <ul class="text-lg-left list-unstyled">
                             <li>
@@ -98,12 +94,8 @@
                         </ul>
                         <hr class="hr-light my-4">
                     </blockquote>
-
-
                 </div>
-
             </div>
-
             <!-- Grid column -->
 
         </div>

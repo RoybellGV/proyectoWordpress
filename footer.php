@@ -39,8 +39,3 @@
 
 </footer>
 <!-- Footer -->
-
-
-</body>
-
-</html>
