@@ -27,6 +27,8 @@ function load_assets()
     wp_enqueue_script( 'slider_js', 'https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.min.js'); 
         //load scripts js
     wp_enqueue_script( 'app_js', get_template_directory_uri() . '/assets/js/scripts.js');
+        //load Top
+    wp_enqueue_script( 'top_js', get_template_directory_uri() . '/assets/js/top.js');
 }
 
 add_action('wp_enqueue_scripts','load_assets');

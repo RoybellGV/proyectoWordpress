@@ -41,4 +41,5 @@
         ?>
         </div>
     </nav>
+    <button onclick="topFunction()" id="myBtn" title="Go to top" class="rounded-circle"><i class="fas fa-arrow-circle-up"></i></button>
     <!--/.Navbar -->
