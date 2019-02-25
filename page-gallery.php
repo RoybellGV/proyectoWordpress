@@ -19,6 +19,7 @@
     <!-- Card deck sección superior -->
     <div class="card-deck mx-1 animated bounceInLeft delay-1s">
 
+        
         <!-- Card -->
         <div class="card mb-4">
 

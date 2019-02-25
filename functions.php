@@ -69,4 +69,38 @@ function create_main_slider() {
     
     add_action( 'init', 'create_main_slider' );
 
+
+
+
+
+function create_home_slider() {
+        $args = array(
+            'labels' => array(
+                'name' => __( 'Home Slider' ),
+                'singular_name' => __( 'Home Slider' ),
+                'menu_name' => __( 'Home Slider' ),
+                'name_admin_bar' => __( 'Home Slider' ),
+                'add_new' => __('Add new'),
+                'add_new_item' => __('Add New Slider'),
+                'new_item' => __('New Slider'),
+                'edit_item' => __('Edit Slider'),
+                'view_item' => __('View Sliders'),
+                'all_items' => __('All Sliders'),
+                'search_items' => __('Search Slider'),
+                'parent_item_color' => __('Parent Sliders:'),
+                'not_found' => __('No sliders found.'),
+                'not_found_in_trash' => __('No sliders found in Trash')
+            ),
+            'public' => true,
+            'menu_icon' => 'dashicons-format-gallery',
+            'supports' => array( 'title', 'editor', 'thumbnail', 'custom-fields' ),
+            'capability_type' => 'post',
+            'rewrite' => array("slug" => "home slider")
+        );
+
+        register_post_type('home-slider', $args);
+    }
+    
+    add_action( 'init', 'create_home_slider' );
+
 ?>

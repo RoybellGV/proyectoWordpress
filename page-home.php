@@ -4,7 +4,7 @@
 <div>
     <ul class="slider text-center">
         <?php 
-            $args = array( 'post_type' => 'main-slider' );
+            $args = array( 'post_type' => 'home-slider' );
             $the_query = new WP_Query( $args ); 
 
             if($the_query->have_posts()) :
@@ -39,7 +39,7 @@
         <h2>
             <p id="descripcion">Our specialty</p>
         </h2>
-        <p id="descripcion"><a type="button" class="btn btn-warning text-light myButton" href="galeria/">Visit the Gallery</a></p>
+        <p id="descripcion"><a type="button" class="btn btn-warning text-light myButton" href="gallery/">Visit the Gallery</a></p>
     </div>
 </div>
 <div id="imagen" class="animated bounceInRight delay-1s">
@@ -50,7 +50,7 @@
         <h2>
             <p id="descripcion">Variety that delights</p>
         </h2>
-        <p id="descripcion"><a class="btn btn-warning text-light myButton" href="menu/">Go to Menu</a></p>
+        <p id="descripcion"><a class="btn btn-warning text-light myButton" href="menuen/">Go to Menu</a></p>
     </div>
 </div>
 <div class="text-dark mb-5 text-center tipografia1 animated fadeIn slow delay-1s">
