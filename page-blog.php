@@ -61,7 +61,7 @@
                 <h5 class="mx-4 mt-3 text-dark tipografia2">Para estar atento y recibir las noticias de primera mano, no dudes suscribirte</h5>
                 <div class="card-body">
                     <form>
-                        <label class="grey-text">Your email</label>
+                        <label class="grey-text">Su email</label>
                         <input type="email" id="defaultFormLoginEmailEx" class="form-control">
                         <div class="text-center mt-4">
                             <button class="btn btn-danger btn-md waves-effect waves-light btn-lg text-uppercase tipografia2 myButton1" type="submit">Suscribirse</button>
@@ -161,7 +161,7 @@
     <div class="bannerBlog">
         <div class="row blogBanner">
             <div class="col text-center mt-5 pt-5 text-white">
-                <h1 class="tipografia1 h1-responsive animated fadeInUpBig slow"> <strong>Te gusta la comida sabrosa</strong></h1>
+                <h1 class="tipografia1 h1-responsive animated fadeInUpBig delay-2s"> <strong>Te gusta la comida sabrosa</strong></h1>
             </div>
         </div>
     </div>

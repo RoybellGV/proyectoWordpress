@@ -25,7 +25,7 @@
         <h1 class="h1-responsive text-center tipografia1"> <strong class="text-dark">¿Quienes somos?</strong></h1>
         <div class="row align-items-center mt-5">
             <div class="col-md-5 col-sm-12 pr-0"><img class="img-fluid" src="https://i.ibb.co/2W0ZfdD/img-About1.jpg"></div>
-            <div class="col-md-7 col-sm-12 colorfondo seccionQuiSom animated fadeInRight slow">
+            <div class="col-md-7 col-sm-12 colorfondo seccionQuiSom animated fadeInRight delay-2s">
                 <blockquote class="blockquote">
                     <h3 class="font-weight-bold pl-5 mt-3 text-white text-left tipografia2">Nuestro Compromiso</h3>
                     <p class="pl-5 text-dark tipografia2">Llevar platillos de calidad a su es y que con cada bocado tenga la mejor experiencia.</p>
@@ -50,7 +50,7 @@
             </div>
         </div>
         <div class="row d-flex d-flex justify-content-center">
-            <div class="card-deck text-center mt-4 animated fadeInUp slow">
+            <div class="card-deck text-center mt-4 animated fadeInUp delay-3s">
                 <div class="card degradado border-0">
                     <div class="card-body">
                         <h4 class="card-title tipografia2"><strong class="text-dark">Establecimiento</strong></h4>
@@ -85,7 +85,7 @@
                 <h1 class="h1-responsive mt-4 tipografia1"> <strong class="text-dark">Testimonio</strong></h1>
             </div>
         </div>
-        <div class="row d-flex justify-content-center animated fadeIn slow">
+        <div class="row d-flex justify-content-center animated fadeIn delay-4s">
             <div class="col-md-6 mb-4">
                 <!--Carta testimonio-->
                 <div class="card testimonial-card text-center bordeCard">

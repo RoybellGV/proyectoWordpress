@@ -9,7 +9,7 @@
                 <div class="recuadroNuestroEquipo tipografia2">
                     <blockquote class="blockquote">
                         <h3 class="font-weight-bold pl-5 text-dark">El mas alto compromiso</h3>
-                        <p class="pl-5 text-dark">Personal sumamente comprometido con su diario labol en el restaurnte.</p>
+                        <p class="pl-5 text-dark">Personal sumamente comprometido con su diario labor en el restaurante.</p>
                         <p class="pl-5 text-dark">Chef internacionales encargados de capacitar al personal.</p>
                         <p class="pl-5 text-dark">Comprometidos con la calidad y un servicio refinado.</p>
                     </blockquote>
@@ -28,7 +28,7 @@
         <div class="col-md-10">
             <h1 class="h1-responsive text-center tipografia1 mt-5"> <strong class="text-dark">Nuestro Equipo</strong></h1>
             <!-- Seccion equipo Arriba-->
-            <div class="card-deck mt-5">
+            <div class="card-deck mt-5 animated fadeInLeft delay-2s">
                 <!-- Carta de chef 1 -->
                 <div class="card">
                     <img src="https://i.ibb.co/vkphLSK/imgTeam2.jpg" class="card-img-top">
@@ -101,12 +101,12 @@
             <!-- Fin Seccion equipo Arriba-->
 
             <!-- Seccion equipo Abajo-->
-            <div class="card-deck mt-5">
+            <div class="card-deck mt-5 animated fadeInRight delay-2s">
                 <!-- Carta de chef 5 -->
                 <div class="card">
                     <img src="https://i.ibb.co/60Ndkcy/img-Team12.jpg" class="card-img-top">
                     <div class="card-body card-body-cascade text-center">
-                        <h4 class="card-title"><strong>John Doe</strong></h4>
+                        <h4 class="card-title"><strong>Potter Pote</strong></h4>
                         <blockquote class="blockquote">
                             <p class="card-text colorTexto"><small class="colorTexto">CHEF REPOSTERO</small></p>
                             <p class="card-text text-muted">Especializado en reposteria y postres de los más refinados del estilo italiano </p>
@@ -123,7 +123,7 @@
                 <div class="card">
                     <img src="https://i.ibb.co/Lkv3rPg/img-Team13.jpg" class="card-img-top">
                     <div class="card-body card-body-cascade text-center">
-                        <h4 class="card-title "><strong>Mark Willins</strong></h4>
+                        <h4 class="card-title "><strong>Mery Hans</strong></h4>
                         <blockquote class="blockquote">
                             <p class="card-text colorTexto"><small class="colorTexto">CHEF SECUNDARIO</small></p>
                             <p class="card-text text-muted">Especializado en carnes rojas, blancas y magras </p>
@@ -140,7 +140,7 @@
                 <div class="card">
                     <img src="https://i.ibb.co/6FL76FR/img-Team14.jpg" class="card-img-top">
                     <div class="card-body card-body-cascade text-center">
-                        <h4 class="card-title"><strong>Peter Rocha</strong></h4>
+                        <h4 class="card-title"><strong>Alisia Helles</strong></h4>
                         <blockquote class="blockquote">
                             <p class="card-text colorTexto"><small class="colorTexto">CHEF INTERNACIONAL</small></p>
                             <p class="card-text text-muted">Especializado en la cocina francesa con un gran repertorio de platillos ganadores de premios</p>
@@ -157,10 +157,10 @@
                 <div class="card">
                     <img src="https://i.ibb.co/Hrvn6SS/img-Team15.jpg" class="card-img-top">
                     <div class="card-body card-body-cascade text-center">
-                        <h4 class="card-title"><strong>Mario Perez</strong></h4>
+                        <h4 class="card-title"><strong>Pamela Saens</strong></h4>
                         <blockquote class="blockquote">
                             <p class="card-text colorTexto"><small class="colorTexto">CHEF PRINCIPAL</small></p>
-                            <p class="card-text text-muted">Especializado en la cocina oriental con más de 10 años de esperiencia</p>
+                            <p class="card-text text-muted">Especializado en la cocina oriental con más de 10 años de experiencia</p>
                         </blockquote>
                         <!-- Twitter -->
                         <a class="px-2 fa-lg tw-ic"><i class="fab fa-twitter btn-logTeam"></i></a>
@@ -190,7 +190,7 @@
             </div>
 
             <!-- Seccion servicios arriba-->
-            <div class="card-deck mt-5 animated fadeInRight slow">
+            <div class="card-deck mt-5 animated fadeInRight delay-4s">
                 <!-- Carta servicios 1-->
                 <div class="card border-0">
                     <img src="https://i.ibb.co/RyRgrNZ/imgTeam6.png" class="mx-auto d-block imgServicios" height="180">
@@ -216,7 +216,7 @@
                     <img src="https://i.ibb.co/kKWb3k7/imgTeam8.png" class="mx-auto d-block imgServicios" height="180">
                     <div class="card-body card-body-cascade text-center">
                         <h4 class="card-title tipografia2"><strong>Cathering de negocios</strong></h4>
-                        <h5 class="card-text text-muted tipografia2">Especializado para esas reuniones de negocios donde despues de largas horas de reunicion son necesarios unos bocadillos de las más alta calidad</h5>
+                        <h5 class="card-text text-muted tipografia2">Especializado para esas reuniones de negocios donde despues de largas horas de reunion son necesarios unos bocadillos de las más alta calidad</h5>
                     </div>
                 </div>
                 <!-- Fin Carta servicios 3-->
@@ -224,7 +224,7 @@
             <!-- Fin Seccion servicios arriba-->
 
             <!--Seccion servicios abajo-->
-            <div class="card-deck mt-5 animated fadeInLeft slow">
+            <div class="card-deck mt-5 animated fadeInLeft delay-5s">
                 <!-- Carta servicios 4-->
                 <div class="card border-0">
                     <img src="https://i.ibb.co/82XtVdq/ImgTeam9.png" class="mx-auto d-block imgServicios" height="180">
@@ -264,7 +264,7 @@
     <!--  Seccion  Fondo Servirle-->
     <div class="bannerTeam2 mt-5">
         <div class="row teamBanner align-items-center justify-content-center">
-            <div class="col-md-10 text-center cuadroOrgullo py-5 animated fadeIn slow">
+            <div class="col-md-10 text-center cuadroOrgullo py-5 animated fadeIn delay-6s">
                 <h1 class="h4-responsive tipografia1 "> <strong class="colorTexto">Estamos orgullosos de servirle</strong></h1>
             </div>
         </div>
