@@ -101,7 +101,7 @@
             <!-- Fin Seccion equipo Arriba-->
 
             <!-- Seccion equipo Abajo-->
-            <div class="card-deck mt-5 animated fadeInRight delay-2s">
+            <div class="card-deck mt-5">
                 <!-- Carta de chef 5 -->
                 <div class="card">
                     <img src="https://i.ibb.co/60Ndkcy/img-Team12.jpg" class="card-img-top">
@@ -190,7 +190,7 @@
             </div>
 
             <!-- Seccion servicios arriba-->
-            <div class="card-deck mt-5 animated fadeInRight delay-4s">
+            <div class="card-deck mt-5">
                 <!-- Carta servicios 1-->
                 <div class="card border-0">
                     <img src="https://i.ibb.co/RyRgrNZ/imgTeam6.png" class="mx-auto d-block imgServicios" height="180">
@@ -224,7 +224,7 @@
             <!-- Fin Seccion servicios arriba-->
 
             <!--Seccion servicios abajo-->
-            <div class="card-deck mt-5 animated fadeInLeft delay-5s">
+            <div class="card-deck mt-5">
                 <!-- Carta servicios 4-->
                 <div class="card border-0">
                     <img src="https://i.ibb.co/82XtVdq/ImgTeam9.png" class="mx-auto d-block imgServicios" height="180">
@@ -263,8 +263,8 @@
 
     <!--  Seccion  Fondo Servirle-->
     <div class="bannerTeam2 mt-5">
-        <div class="row teamBanner align-items-center justify-content-center">
-            <div class="col-md-10 text-center cuadroOrgullo py-5 animated fadeIn delay-6s">
+        <div class="teamBanner d-flex align-items-center">
+            <div class="col-md-10 text-center cuadroOrgullo py-5 m-auto ">
                 <h1 class="h4-responsive tipografia1 "> <strong class="colorTexto">Estamos orgullosos de servirle</strong></h1>
             </div>
         </div>

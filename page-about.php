@@ -1,9 +1,9 @@
 <?php get_header();?>
 
-<div>
+<div class="card col-sm-12 col-lg-12">
     <!-- Seccion Nosotros -->
     <div class="bannerFondo">
-        <div class="rgba-black-strong col-md-12 col-lg-12 ">
+        <div class="rgba-black-strong col-md-12 col-lg-12">
             <div class="text-white">
                 <div class="row aboutBanner align-items-center">
                     <div class="col text-center text-white">
