@@ -30,7 +30,7 @@
                     <a class="nav-link waves-light text-uppercase linkTituloMenu2" id="awesome-tab-classic" data-toggle="tab" href="#awesome-classic" role="tab" aria-controls="awesome-classic" aria-selected="false">Plato fuerte</a>
                 </li>
             </ul>
-            <div class="tab-content border-right border-bottom border-left rounded-bottom" id="myClassicTabContent">
+            <div class="tab-content rounded-bottom" id="myClassicTabContent">
                 <div class="tab-pane fade active show" id="profile-classic" role="tabpanel" aria-labelledby="profile-tab-classic">
                     <div>
                         <!-- Primeria Linea de postres -->

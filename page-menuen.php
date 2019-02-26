@@ -30,7 +30,7 @@
                     <a class="nav-link waves-light text-uppercase linkTituloMenu2" id="awesome-tab-classic" data-toggle="tab" href="#awesome-classic" role="tab" aria-controls="awesome-classic" aria-selected="false">main dish</a>
                 </li>
             </ul>
-            <div class="tab-content border-right border-bottom border-left rounded-bottom" id="myClassicTabContent">
+            <div class="tab-content rounded-bottom" id="myClassicTabContent">
                 <div class="tab-pane fade active show" id="profile-classic" role="tabpanel" aria-labelledby="profile-tab-classic">
                     <div>
                         <!-- Primeria Linea de postres -->
@@ -177,7 +177,7 @@
                     <!-- Columna derecha 1 -->
                     <div class="col-lg-5 col-xl-5 mb-5">
                         <div class="view overlay rounded z-depth-2">
-                            <img src="https://i.ibb.co/jhnZKX6/imgMenu9.jpg" alt="" class="img-fluid animated fadeInRight delay-3s">
+                            <img src="https://i.ibb.co/jhnZKX6/imgMenu9.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                     <!-- Fin Columna derecha 1 -->
@@ -187,7 +187,7 @@
                     <!-- Columna izquierda 2 -->
                     <div class="col-lg-5 col-xl-5 pb-3">
                         <div class="view overlay rounded z-depth-2">
-                            <img src="https://i.ibb.co/rkCDtwV/img-Menu10.jpg" alt="" class="img-fluid animated fadeInLeft delay-4s">
+                            <img src="https://i.ibb.co/rkCDtwV/img-Menu10.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                     <!-- Fin Columna izquierda 2 -->
